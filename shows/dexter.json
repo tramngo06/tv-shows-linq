@@ -1,0 +1,2690 @@
+[
+    {
+      "id": 11596,
+      "url": "https://www.tvmaze.com/episodes/11596/dexter-1x01-dexter",
+      "name": "Dexter",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2006-10-01",
+      "airtime": "22:00",
+      "airstamp": "2006-10-02T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494048.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494048.jpg"
+      },
+      "summary": "<p>Dexter takes part in the investigation of a serial killer who drains his victims of blood. He also kills two criminals, and his romantic relationship may be going to the next level.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11596"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11597,
+      "url": "https://www.tvmaze.com/episodes/11597/dexter-1x02-crocodile",
+      "name": "Crocodile",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2006-10-08",
+      "airtime": "22:00",
+      "airstamp": "2006-10-09T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494063.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494063.jpg"
+      },
+      "summary": "<p>While preparing for his next victim, Dexter finds out that the Ice Truck Killer is aware of Dexter's dirty little secret.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11597"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11598,
+      "url": "https://www.tvmaze.com/episodes/11598/dexter-1x03-popping-cherry",
+      "name": "Popping Cherry",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2006-10-15",
+      "airtime": "22:00",
+      "airstamp": "2006-10-16T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494064.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494064.jpg"
+      },
+      "summary": "<p>Dexter's on the trail of a recently released murderer who plans to kill again when he's sidetracked by the Ice Truck Killer's latest crime - a cut-up hooker found in a hockey ice rink.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11598"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11599,
+      "url": "https://www.tvmaze.com/episodes/11599/dexter-1x04-lets-give-the-boy-a-hand",
+      "name": "Let's Give the Boy a Hand",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2006-10-22",
+      "airtime": "22:00",
+      "airstamp": "2006-10-23T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494065.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494065.jpg"
+      },
+      "summary": "<p>Body parts from the Ice Truck Killer's latest victim begin appearing all over Miami in locations Dexter realizes are related to his own childhood.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11599"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11600,
+      "url": "https://www.tvmaze.com/episodes/11600/dexter-1x05-love-american-style",
+      "name": "Love American Style",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2006-10-29",
+      "airtime": "22:00",
+      "airstamp": "2006-10-30T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494066.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494066.jpg"
+      },
+      "summary": "<p>While the rest of the police department are focused on finding the Ice Truck Killer, Dexter is busy gathering evidence for his next victim. It turns out he will also discover more about relationships, love and how to make a success of it all. In doing so he gets some hilarious advice from unlikely sources and we see the first time that he actually kills two people at one time.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11600"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11601,
+      "url": "https://www.tvmaze.com/episodes/11601/dexter-1x06-return-to-sender",
+      "name": "Return to Sender",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2006-11-05",
+      "airtime": "22:00",
+      "airstamp": "2006-11-06T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494067.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494067.jpg"
+      },
+      "summary": "<p>Dexter is called to the scene of the crime at the Castillo junkyard. The Ice Truck Killer has returned Valerie Castillo's body putting Dexter in danger of being caught. A boy is found who witnessed the crime.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11601"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11602,
+      "url": "https://www.tvmaze.com/episodes/11602/dexter-1x07-circle-of-friends",
+      "name": "Circle of Friends",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2006-11-12",
+      "airtime": "22:00",
+      "airstamp": "2006-11-13T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494068.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494068.jpg"
+      },
+      "summary": "<p>The police think they've uncovered the identity of the Ice Truck Killer, but Dexter is not sure they're right.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11602"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11603,
+      "url": "https://www.tvmaze.com/episodes/11603/dexter-1x08-shrink-wrap",
+      "name": "Shrink Wrap",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2006-11-19",
+      "airtime": "22:00",
+      "airstamp": "2006-11-20T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494069.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494069.jpg"
+      },
+      "summary": "<p>Several wealthy women have apparently died of suicide, but Dexter suspects they were really murdered by their psychologist.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11603"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11604,
+      "url": "https://www.tvmaze.com/episodes/11604/dexter-1x09-father-knows-best",
+      "name": "Father Knows Best",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2006-11-26",
+      "airtime": "22:00",
+      "airstamp": "2006-11-27T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494070.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494070.jpg"
+      },
+      "summary": "<p>Dexter travels to the house of his biological father, who just passed away, to rekindle forgotten memories.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11604"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11605,
+      "url": "https://www.tvmaze.com/episodes/11605/dexter-1x10-seeing-red",
+      "name": "Seeing Red",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2006-12-03",
+      "airtime": "22:00",
+      "airstamp": "2006-12-04T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494071.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494071.jpg"
+      },
+      "summary": "<p>When Dexter is sent to investigate a bloody crime scene, deeply suppressed memories from his childhood begin to resurface.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11605"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11606,
+      "url": "https://www.tvmaze.com/episodes/11606/dexter-1x11-truth-be-told",
+      "name": "Truth Be Told",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2006-12-10",
+      "airtime": "22:00",
+      "airstamp": "2006-12-11T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494072.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494072.jpg"
+      },
+      "summary": "<p>Just days before Christmas, the Ice Truck Killer leaves the body of a dead prostitute outside Santa's Cottage.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11606"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11607,
+      "url": "https://www.tvmaze.com/episodes/11607/dexter-1x12-born-free",
+      "name": "Born Free",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2006-12-17",
+      "airtime": "22:00",
+      "airstamp": "2006-12-18T03:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494073.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494073.jpg"
+      },
+      "summary": "<p>While avoiding the misguided Sgt. Doakes, Dexter searches for the real Ice Truck Killer and his hostage before it's too late.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11607"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11608,
+      "url": "https://www.tvmaze.com/episodes/11608/dexter-2x01-its-alive",
+      "name": "It's Alive!",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2007-09-30",
+      "airtime": "21:00",
+      "airstamp": "2007-10-01T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494075.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494075.jpg"
+      },
+      "summary": "<p>As a cool forensics expert with killer instincts, Dexter's got it made -- but he may be getting more recognition than he ever hoped for.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11608"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11609,
+      "url": "https://www.tvmaze.com/episodes/11609/dexter-2x02-waiting-to-exhale",
+      "name": "Waiting to Exhale",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2007-10-07",
+      "airtime": "21:00",
+      "airstamp": "2007-10-08T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494076.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494076.jpg"
+      },
+      "summary": "<p>A still-shaken Dexter continues stalking the monstrous Little Chino, while Debra struggles with her lingering demons.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11609"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11610,
+      "url": "https://www.tvmaze.com/episodes/11610/dexter-2x03-an-inconvenient-lie",
+      "name": "An Inconvenient Lie",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2007-10-14",
+      "airtime": "21:00",
+      "airstamp": "2007-10-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494077.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494077.jpg"
+      },
+      "summary": "<p>Dexter's mysterious late-night activities attract the wrong kind of attention from Rita, who's convinced his vice of choice must be drugs.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11610"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11611,
+      "url": "https://www.tvmaze.com/episodes/11611/dexter-2x04-see-through",
+      "name": "See-Through",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2007-10-21",
+      "airtime": "21:00",
+      "airstamp": "2007-10-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494078.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494078.jpg"
+      },
+      "summary": "<p>To appease Rita, Dex gets a drug sponsor -- who proves too attractive for Rita's comfort. Meanwhile, he tries shaking off the tenacious Lundy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11611"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11612,
+      "url": "https://www.tvmaze.com/episodes/11612/dexter-2x05-the-dark-defender",
+      "name": "The Dark Defender",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2007-10-28",
+      "airtime": "21:00",
+      "airstamp": "2007-10-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494079.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494079.jpg"
+      },
+      "summary": "<p>Dexter learns that one of the three men who murdered his mother is still alive and, thanks to the Witness Protection Program, running a pub in Naples, FL.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11612"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11613,
+      "url": "https://www.tvmaze.com/episodes/11613/dexter-2x06-dex-lies-and-videotape",
+      "name": "Dex, Lies, and Videotape",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2007-11-04",
+      "airtime": "21:00",
+      "airstamp": "2007-11-05T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494080.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494080.jpg"
+      },
+      "summary": "<p>The Bay Harbor Butcher now has a copycat, and Dexter must stop him before Agent Lundy puts the Butcher case entirely into the hands of the FBI.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11613"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11614,
+      "url": "https://www.tvmaze.com/episodes/11614/dexter-2x07-that-night-a-forest-grew",
+      "name": "That Night, a Forest Grew",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2007-11-11",
+      "airtime": "21:00",
+      "airstamp": "2007-11-12T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494081.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494081.jpg"
+      },
+      "summary": "<p>Dexter sends the Miami Tribune a 32-page manifesto designed purely to baffle and mislead the police. His scheming continues as he finally fights back against Sgt. Doakes.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11614"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11615,
+      "url": "https://www.tvmaze.com/episodes/11615/dexter-2x08-morning-comes",
+      "name": "Morning Comes",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2007-11-18",
+      "airtime": "21:00",
+      "airstamp": "2007-11-19T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494082.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494082.jpg"
+      },
+      "summary": "<p>Thanks to some deliberately bad blood work, Agent Lundy comes closer to uncovering the Bay Harbor Butcher.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11615"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11616,
+      "url": "https://www.tvmaze.com/episodes/11616/dexter-2x09-resistance-is-futile",
+      "name": "Resistance is Futile",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2007-11-25",
+      "airtime": "21:00",
+      "airstamp": "2007-11-26T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494083.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494083.jpg"
+      },
+      "summary": "<p>Dexter is in shock when he realizes that his blood slides are gone. It seems that Agent Lundy really has him now; but there's more going on than he knows.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11616"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11617,
+      "url": "https://www.tvmaze.com/episodes/11617/dexter-2x10-theres-something-about-harry",
+      "name": "There's Something About Harry",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2007-12-02",
+      "airtime": "21:00",
+      "airstamp": "2007-12-03T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494084.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494084.jpg"
+      },
+      "summary": "<p>As Dexter keeps Doakes caged in Jimenez's cabin, Doakes reveals that he knows something about the death of Dexter's father. This clue leads Dexter to discover a shocking truth.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11617"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11618,
+      "url": "https://www.tvmaze.com/episodes/11618/dexter-2x11-left-turn-ahead",
+      "name": "Left Turn Ahead",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2007-12-09",
+      "airtime": "21:00",
+      "airstamp": "2007-12-10T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494085.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494085.jpg"
+      },
+      "summary": "<p>Dexter decides that he needs to turn himself in, but gives himself a day to get his life together. Meanwhile, he leaves Doakes in his cage.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11618"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11619,
+      "url": "https://www.tvmaze.com/episodes/11619/dexter-2x12-the-british-invasion",
+      "name": "The British Invasion",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2007-12-16",
+      "airtime": "21:00",
+      "airstamp": "2007-12-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494086.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494086.jpg"
+      },
+      "summary": "<p>Lila makes a shocking discovery about Dexter and takes advantage of it in a desperate ploy to win him back, or rather, force him back.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11619"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11620,
+      "url": "https://www.tvmaze.com/episodes/11620/dexter-3x01-our-father",
+      "name": "Our Father",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2008-09-28",
+      "airtime": "21:00",
+      "airstamp": "2008-09-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494087.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494087.jpg"
+      },
+      "summary": "<p>Dexter begins to question his blind loyalty to his father's memory. In an act of spontaneity, he wonders whether the code of Harry is a necessity anymore.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11620"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11621,
+      "url": "https://www.tvmaze.com/episodes/11621/dexter-3x02-finding-freebo",
+      "name": "Finding Freebo",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2008-10-05",
+      "airtime": "21:00",
+      "airstamp": "2008-10-06T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494088.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494088.jpg"
+      },
+      "summary": "<p>Dexter catches up with Freebo, but once again the kill goes terribly wrong.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11621"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11622,
+      "url": "https://www.tvmaze.com/episodes/11622/dexter-3x03-the-lion-sleeps-tonight",
+      "name": "The Lion Sleeps Tonight",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2008-10-12",
+      "airtime": "21:00",
+      "airstamp": "2008-10-13T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494089.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494089.jpg"
+      },
+      "summary": "<p>Miguel continues to press his unwanted friendship on Dexter, who has other things to worry about - primarily a child molester who has his eye on Astor.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11622"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11623,
+      "url": "https://www.tvmaze.com/episodes/11623/dexter-3x04-all-in-the-family",
+      "name": "All in the Family",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2008-10-19",
+      "airtime": "21:00",
+      "airstamp": "2008-10-20T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494090.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494090.jpg"
+      },
+      "summary": "<p>Dexter botches his first marriage proposal to Rita, but a shocked and grieving fiancée's display of emotions provides him with clues on how to show the proper feelings himself.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11623"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11624,
+      "url": "https://www.tvmaze.com/episodes/11624/dexter-3x05-turning-biminese",
+      "name": "Turning Biminese",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2008-10-26",
+      "airtime": "21:00",
+      "airstamp": "2008-10-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494091.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494091.jpg"
+      },
+      "summary": "<p>Through Miguel, Dexter learns of a wife-killer who has gone free - the perfect person for his next kill.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11624"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11625,
+      "url": "https://www.tvmaze.com/episodes/11625/dexter-3x06-si-se-puede",
+      "name": "Sí Se Puede",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2008-11-02",
+      "airtime": "21:00",
+      "airstamp": "2008-11-03T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494092.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494092.jpg"
+      },
+      "summary": "<p>Miguel surprises Dexter by agreeing to his unreasonable request: access to a white supremacist already in custody.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11625"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11626,
+      "url": "https://www.tvmaze.com/episodes/11626/dexter-3x07-easy-as-pie",
+      "name": "Easy as Pie",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2008-11-09",
+      "airtime": "21:00",
+      "airstamp": "2008-11-10T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494093.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494093.jpg"
+      },
+      "summary": "<p>Dexter, who once chose his own victims, is now receiving requests - one from Miguel and another from Camilla.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11626"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11627,
+      "url": "https://www.tvmaze.com/episodes/11627/dexter-3x08-the-damage-a-man-can-do",
+      "name": "The Damage a Man Can Do",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2008-11-16",
+      "airtime": "21:00",
+      "airstamp": "2008-11-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494094.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494094.jpg"
+      },
+      "summary": "<p>Dexter's friendship with Miguel grows closer - dangerously closer - when Miguel declares that he wants to make the next kill himself.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11627"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11628,
+      "url": "https://www.tvmaze.com/episodes/11628/dexter-3x09-about-last-night",
+      "name": "About Last Night",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2008-11-23",
+      "airtime": "21:00",
+      "airstamp": "2008-11-24T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494095.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494095.jpg"
+      },
+      "summary": "<p>Dexter and Miguel's friendship becomes uneasy just as Rita confronts Miguel about being unfaithful toward his wife.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11628"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11629,
+      "url": "https://www.tvmaze.com/episodes/11629/dexter-3x10-go-your-own-way",
+      "name": "Go Your Own Way",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2008-11-30",
+      "airtime": "21:00",
+      "airstamp": "2008-12-01T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494096.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494096.jpg"
+      },
+      "summary": "<p>Dexter needs leverage against Miguel and goes looking for it - specifically the ring Miguel took from Ellen Wolf as a trophy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11629"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11630,
+      "url": "https://www.tvmaze.com/episodes/11630/dexter-3x11-i-had-a-dream",
+      "name": "I Had a Dream",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2008-12-07",
+      "airtime": "21:00",
+      "airstamp": "2008-12-08T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494097.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494097.jpg"
+      },
+      "summary": "<p>Maria suspects Miguel of Ellen Wolf's murder, and Dexter knows she suspects it. Dexter will have to make his move before Miguel goes after Maria.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11630"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11631,
+      "url": "https://www.tvmaze.com/episodes/11631/dexter-3x12-do-you-take-dexter-morgan",
+      "name": "Do You Take Dexter Morgan?",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2008-12-14",
+      "airtime": "21:00",
+      "airstamp": "2008-12-15T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494098.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494098.jpg"
+      },
+      "summary": "<p>As the wedding day approaches, Dexter still has Ramon to deal with. Meanwhile, the Skinner is still loose, and Dexter is his next intended victim.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11631"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11632,
+      "url": "https://www.tvmaze.com/episodes/11632/dexter-4x01-living-the-dream",
+      "name": "Living the Dream",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2009-09-27",
+      "airtime": "21:00",
+      "airstamp": "2009-09-28T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494099.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494099.jpg"
+      },
+      "summary": "<p>Dexter's sleep deprivation puts both his day job and his nighttime hunting in jeopardy. Lundy is back in town to capture the Trinity Killer - someone he can't even prove exists.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11632"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11633,
+      "url": "https://www.tvmaze.com/episodes/11633/dexter-4x02-remains-to-be-seen",
+      "name": "Remains to Be Seen",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2009-10-04",
+      "airtime": "21:00",
+      "airstamp": "2009-10-05T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494100.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494100.jpg"
+      },
+      "summary": "<p>A sleep-deprived Dexter desperately tries to remember where he hid the body parts of his latest victim.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11633"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11634,
+      "url": "https://www.tvmaze.com/episodes/11634/dexter-4x03-blinded-by-the-light",
+      "name": "Blinded by the Light",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2009-10-11",
+      "airtime": "21:00",
+      "airstamp": "2009-10-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494101.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494101.jpg"
+      },
+      "summary": "<p>When a local vandal begins stirring up trouble, Dexter's neighborhood becomes vigilant and wary, two things Dexter doesn't need.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11634"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11635,
+      "url": "https://www.tvmaze.com/episodes/11635/dexter-4x04-dex-takes-a-holiday",
+      "name": "Dex Takes a Holiday",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2009-10-18",
+      "airtime": "21:00",
+      "airstamp": "2009-10-19T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494102.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494102.jpg"
+      },
+      "summary": "<p>While Rita and the kids are out of town for a wedding, a police officer comes onto Dexter's radar.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11635"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11636,
+      "url": "https://www.tvmaze.com/episodes/11636/dexter-4x05-dirty-harry",
+      "name": "Dirty Harry",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2009-10-25",
+      "airtime": "21:00",
+      "airstamp": "2009-10-26T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494103.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494103.jpg"
+      },
+      "summary": "<p>Recent events spur Dexter into his own investigation of the Trinity Killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11636"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11637,
+      "url": "https://www.tvmaze.com/episodes/11637/dexter-4x06-if-i-had-a-hammer",
+      "name": "If I Had a Hammer",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2009-11-01",
+      "airtime": "21:00",
+      "airstamp": "2009-11-02T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494104.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494104.jpg"
+      },
+      "summary": "<p>Dexter knows it's only a matter of time before police discover the Trinity Killer's latest act.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11637"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11638,
+      "url": "https://www.tvmaze.com/episodes/11638/dexter-4x07-slack-tide",
+      "name": "Slack Tide",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2009-11-08",
+      "airtime": "21:00",
+      "airstamp": "2009-11-09T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494105.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494105.jpg"
+      },
+      "summary": "<p>With family and work taking its toll, Dexter accidentally makes a serious mistake. Meanwhile, Quinn starts digging into Dexter's past.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11638"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11639,
+      "url": "https://www.tvmaze.com/episodes/11639/dexter-4x08-road-kill",
+      "name": "Road Kill",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2009-11-15",
+      "airtime": "21:00",
+      "airstamp": "2009-11-16T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494106.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494106.jpg"
+      },
+      "summary": "<p>Dexter has always known his father's code was meant to protect him from exposure; but after committing a serious mistake, he wonders if it could have been designed to protect him from something even more dangerous - human emotion.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11639"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11640,
+      "url": "https://www.tvmaze.com/episodes/11640/dexter-4x09-hungry-man",
+      "name": "Hungry Man",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2009-11-22",
+      "airtime": "21:00",
+      "airstamp": "2009-11-23T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494107.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494107.jpg"
+      },
+      "summary": "<p>Dexter uses Thanksgiving as an opportunity to get closer to his most dangerous adversary yet.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11640"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11641,
+      "url": "https://www.tvmaze.com/episodes/11641/dexter-4x10-lost-boys",
+      "name": "Lost Boys",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2009-11-29",
+      "airtime": "21:00",
+      "airstamp": "2009-11-30T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494108.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494108.jpg"
+      },
+      "summary": "<p>Dexter makes a startling discovery while stalking the Trinity Killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11641"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11642,
+      "url": "https://www.tvmaze.com/episodes/11642/dexter-4x11-hello-dexter-morgan",
+      "name": "Hello, Dexter Morgan",
+      "season": 4,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2009-12-06",
+      "airtime": "21:00",
+      "airstamp": "2009-12-07T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494109.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494109.jpg"
+      },
+      "summary": "<p>Dexter's worst fears are finally realized. Meanwhile, Debra is on the verge of uncovering the identity of the Trinity Killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11642"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11643,
+      "url": "https://www.tvmaze.com/episodes/11643/dexter-4x12-the-getaway",
+      "name": "The Getaway",
+      "season": 4,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2009-12-13",
+      "airtime": "21:00",
+      "airstamp": "2009-12-14T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 9.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494110.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494110.jpg"
+      },
+      "summary": "<p>Dexter is obsessed with getting the Trinity Killer himself, especially after Arthur has tracked him to Metro Homicide and learns his real identity.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11643"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11644,
+      "url": "https://www.tvmaze.com/episodes/11644/dexter-5x01-my-bad",
+      "name": "My Bad",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2010-09-26",
+      "airtime": "21:00",
+      "airstamp": "2010-09-27T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494112.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494112.jpg"
+      },
+      "summary": "<p>Rita's death has left Dexter feeling responsible and guilty for not being there to save her from the Trinity Killer.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11644"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11645,
+      "url": "https://www.tvmaze.com/episodes/11645/dexter-5x02-hello-bandit",
+      "name": "Hello, Bandit",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2010-10-03",
+      "airtime": "21:00",
+      "airstamp": "2010-10-04T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494114.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494114.jpg"
+      },
+      "summary": "<p>In his new role as single father, an anxious Dexter tries to get his family's routine back on track, to begin the process of moving on from Rita's death.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11645"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11646,
+      "url": "https://www.tvmaze.com/episodes/11646/dexter-5x03-practically-perfect",
+      "name": "Practically Perfect",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2010-10-10",
+      "airtime": "21:00",
+      "airstamp": "2010-10-11T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494115.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494115.jpg"
+      },
+      "summary": "<p>Dexter finds it hard to adapt to a life without Rita. Quinn notices strange similarities between Trinity Killer associate \"Kyle Butler\" and Dexter.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11646"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11647,
+      "url": "https://www.tvmaze.com/episodes/11647/dexter-5x04-beauty-and-the-beast",
+      "name": "Beauty and the Beast",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2010-10-17",
+      "airtime": "21:00",
+      "airstamp": "2010-10-18T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494116.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494116.jpg"
+      },
+      "summary": "<p>Dexter finds himself in a strange situation when, instead of taking a life, he has to save one when he must decide what to do with a frightened young woman named Lumen.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11647"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11648,
+      "url": "https://www.tvmaze.com/episodes/11648/dexter-5x05-first-blood",
+      "name": "First Blood",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2010-10-24",
+      "airtime": "21:00",
+      "airstamp": "2010-10-25T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494117.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494117.jpg"
+      },
+      "summary": "<p>When Dexter is burdened by an unwanted conspirator, he is forced to make some hard decisions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11648"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11649,
+      "url": "https://www.tvmaze.com/episodes/11649/dexter-5x06-everything-is-illumenated",
+      "name": "Everything is Illumenated",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2010-10-31",
+      "airtime": "21:00",
+      "airstamp": "2010-11-01T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494120.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494120.jpg"
+      },
+      "summary": "<p>Striving to bring some normalcy back into his shattered life, Dexter begins plotting to take down a serial killer, but his plans get thrown off course when Lumen requires his help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11649"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11650,
+      "url": "https://www.tvmaze.com/episodes/11650/dexter-5x07-circle-us",
+      "name": "Circle Us",
+      "season": 5,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2010-11-07",
+      "airtime": "21:00",
+      "airstamp": "2010-11-08T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494122.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494122.jpg"
+      },
+      "summary": "<p>By aiding Lumen, who has shot one of her attackers in an old warehouse, Dexter puts himself on a collision course with Debra, and risks being found out.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11650"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11651,
+      "url": "https://www.tvmaze.com/episodes/11651/dexter-5x08-take-it",
+      "name": "Take It!",
+      "season": 5,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2010-11-14",
+      "airtime": "21:00",
+      "airstamp": "2010-11-15T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494124.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494124.jpg"
+      },
+      "summary": "<p>Dexter and Lumen take the opportunity to track a vicious murderer while attending a self-help seminar from Jordan Chase.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11651"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11652,
+      "url": "https://www.tvmaze.com/episodes/11652/dexter-5x09-teenage-wasteland",
+      "name": "Teenage Wasteland",
+      "season": 5,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2010-11-21",
+      "airtime": "21:00",
+      "airstamp": "2010-11-22T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494125.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494125.jpg"
+      },
+      "summary": "<p>Dexter and Lumen are on the hunt for a new victim but get sidetracked by the arrival of a surprise visitor. Meanwhile, Debra digs up new evidence.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11652"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11653,
+      "url": "https://www.tvmaze.com/episodes/11653/dexter-5x10-in-the-beginning",
+      "name": "In the Beginning",
+      "season": 5,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2010-11-28",
+      "airtime": "21:00",
+      "airstamp": "2010-11-29T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494126.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494126.jpg"
+      },
+      "summary": "<p>Just as Dexter discovers a possibly ally in the pursuit of Lumen's former captors, he and Lumen are forced to step down after some key evidence linked to one of their prior victims is discovered.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11653"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11654,
+      "url": "https://www.tvmaze.com/episodes/11654/dexter-5x11-hop-a-freighter",
+      "name": "Hop a Freighter",
+      "season": 5,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2010-12-05",
+      "airtime": "21:00",
+      "airstamp": "2010-12-06T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494127.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494127.jpg"
+      },
+      "summary": "<p>Dexter and Lumen's plans are momentarily thwarted when they come under scrutiny.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11654"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11655,
+      "url": "https://www.tvmaze.com/episodes/11655/dexter-5x12-the-big-one",
+      "name": "The Big One",
+      "season": 5,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2010-12-12",
+      "airtime": "21:00",
+      "airstamp": "2010-12-13T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494128.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494128.jpg"
+      },
+      "summary": "<p>Dexter's situation grows desperate when he discovers that Lumen's been set up.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11655"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11656,
+      "url": "https://www.tvmaze.com/episodes/11656/dexter-6x01-those-kinds-of-things",
+      "name": "Those Kinds of Things",
+      "season": 6,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2011-10-02",
+      "airtime": "21:00",
+      "airstamp": "2011-10-03T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494672.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494672.jpg"
+      },
+      "summary": "<p>Dexter uses his 20 year high school reunion as a chance to hunt the prom king. It's going fine until he is called to the scene of a vicious faith-based murder leaving him with questions about what he wants to pass on to Harrison. Debra who is finally in a good place with her relationship with Quinn and her job becomes an unexpected hero.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11656"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11657,
+      "url": "https://www.tvmaze.com/episodes/11657/dexter-6x02-once-upon-a-time",
+      "name": "Once Upon a Time...",
+      "season": 6,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2011-10-09",
+      "airtime": "21:00",
+      "airstamp": "2011-10-10T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494673.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494673.jpg"
+      },
+      "summary": "<p>In order to solve the mysterious murders, Homicide asks for the help of Brother Sam, who Dexter knows used to be a serial killer. Debra has two proposals, one personal and one job-related.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11657"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11658,
+      "url": "https://www.tvmaze.com/episodes/11658/dexter-6x03-smokey-and-the-bandit",
+      "name": "Smokey and the Bandit",
+      "season": 6,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2011-10-16",
+      "airtime": "21:00",
+      "airstamp": "2011-10-17T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494674.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494674.jpg"
+      },
+      "summary": "<p>Dexter faces a serial killer from his past; Debra has problems with her new position and Travis with Gellar think of their next move.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11658"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11659,
+      "url": "https://www.tvmaze.com/episodes/11659/dexter-6x04-a-horse-of-a-different-color",
+      "name": "A Horse of a Different Color",
+      "season": 6,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2011-10-23",
+      "airtime": "21:00",
+      "airstamp": "2011-10-24T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494675.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494675.jpg"
+      },
+      "summary": "<p>The team investigates murders that have a religious undertone to them.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11659"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11660,
+      "url": "https://www.tvmaze.com/episodes/11660/dexter-6x05-the-angel-of-death",
+      "name": "The Angel of Death",
+      "season": 6,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2011-10-30",
+      "airtime": "21:00",
+      "airstamp": "2011-10-31T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494676.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494676.jpg"
+      },
+      "summary": "<p>With the help of his newfound friend Brother Sam, Dexter wonders if there is light within him to counter the darkness, while the search for the Doomsday Killers takes him in a new direction; Batista and Quinn pay a visit to the university where Professor Gellar taught; due to departmental regulations following the shooting, Debra is forced to begin therapy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11660"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11661,
+      "url": "https://www.tvmaze.com/episodes/11661/dexter-6x06-just-let-go",
+      "name": "Just Let Go",
+      "season": 6,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2011-11-06",
+      "airtime": "21:00",
+      "airstamp": "2011-11-07T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494677.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494677.jpg"
+      },
+      "summary": "<p>Dexter investigates who shot Brother Sam. Meanwhile, Homicide interrogates the woman who Quinn slept with who is involved in the Doomsday Killer case.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11661"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11662,
+      "url": "https://www.tvmaze.com/episodes/11662/dexter-6x07-nebraska",
+      "name": "Nebraska",
+      "season": 6,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2011-11-13",
+      "airtime": "21:00",
+      "airstamp": "2011-11-14T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494678.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494678.jpg"
+      },
+      "summary": "<p>Miami Metro gets closer to Gellar and Travis thanks to the new intern. Meanwhile Dexter deals with faces from the past. Travis tries to move on from Gellar.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11662"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11663,
+      "url": "https://www.tvmaze.com/episodes/11663/dexter-6x08-sin-of-omission",
+      "name": "Sin of Omission",
+      "season": 6,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2011-11-20",
+      "airtime": "21:00",
+      "airstamp": "2011-11-21T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494679.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494679.jpg"
+      },
+      "summary": "<p>Dexter, using what he's learned from Brother Sam, comes a step closer to the Doomsday killers, specifically Travis; Deb and LaGuerta go head-to-head after a call girl ends up dead.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11663"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11664,
+      "url": "https://www.tvmaze.com/episodes/11664/dexter-6x09-get-gellar",
+      "name": "Get Gellar",
+      "season": 6,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2011-11-27",
+      "airtime": "21:00",
+      "airstamp": "2011-11-28T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494680.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494680.jpg"
+      },
+      "summary": "<p>Dexter tries to stay one step ahead of the Homicide Division concerning the Doomsday Killers, while he finds help from an unlikely source; Debra uncovers something unexpected about herself during her therapy sessions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11664"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11665,
+      "url": "https://www.tvmaze.com/episodes/11665/dexter-6x10-ricochet-rabbit",
+      "name": "Ricochet Rabbit",
+      "season": 6,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2011-12-04",
+      "airtime": "21:00",
+      "airstamp": "2011-12-05T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494681.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494681.jpg"
+      },
+      "summary": "<p>Now realizing the error he has made, <b>Dexter</b> redoubles his efforts to track down the doomsday killer and eliminate him. He plants evidence in the church to keep the police off the scent and sets out to find DDK. He manages to track down Holly, the woman Travis freed, but too late. From the evidence at the crime scene, Dexter believes he knows what DDK will strike with next, though he has no idea where. With Quinn hung over and not at work, Batista sets off to interview a person of interest which may have major ramifications for him. Meanwhile, Deb goes through the evidence from the dead call girl case and now knows who was with her and who Laguerta is protecting. Louis the crime lab intern is more than a little deflated when Dexter slams his new computer game.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11665"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11666,
+      "url": "https://www.tvmaze.com/episodes/11666/dexter-6x11-talk-to-the-hand",
+      "name": "Talk to the Hand",
+      "season": 6,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2011-12-11",
+      "airtime": "21:00",
+      "airstamp": "2011-12-12T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494682.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494682.jpg"
+      },
+      "summary": "<p><b>Dexter </b>finds himself at the yacht where Travis and his accomplices were preparing the next tableau, \"Wormwood\". They quickly realize that Travis is planning a gas attack. Worried that Batista has not been seen since the previous day, Quinn sets off to find him. Travis meanwhile sends Beth Dorsey to Miami Metro homicide with a canister of deadly gas and orders her to meet with Lt. Morgan. Deb has dinner with Deputy Chief Matthews and discusses the case of the dead call girl. The next day Deb realizes that Laguerta is very adept at office politics.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11666"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11667,
+      "url": "https://www.tvmaze.com/episodes/11667/dexter-6x12-this-is-the-way-the-world-ends",
+      "name": "This is the Way the World Ends",
+      "season": 6,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2011-12-18",
+      "airtime": "21:00",
+      "airstamp": "2011-12-19T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494683.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494683.jpg"
+      },
+      "summary": "<p>Stuck in the ocean miles from shore, <b>Dexter </b>is rescued by an old boat carrying illegal immigrants to the US. Once ashore, he heads home hoping to figure out where and when Travis next move. Travis has holed up in a small house and has killed the occupants. While he's away, the police show up and <b>Dexter </b>has something of a surprise waiting for him. <b>Dexter </b>makes it to son Harrison's school recital only to have Travis take the child. Meanwhile, Debra has a plan to catch Travis and gets LaGuerta's support for her plan. Debra also comes to terms with her feelings for <b>Dexter</b>. In his final confrontation with Travis, <b>Dexter </b>has him tied down on his execution table. Someone walks in just as he's committing the deed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11667"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11668,
+      "url": "https://www.tvmaze.com/episodes/11668/dexter-7x01-are-you",
+      "name": "Are You...?",
+      "season": 7,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2012-09-30",
+      "airtime": "21:00",
+      "airstamp": "2012-10-01T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494684.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494684.jpg"
+      },
+      "summary": "<p>Having been caught in the act of eliminating Travis Marshall by his sister Deb, <b>Dexter</b> has to scramble to come up with an explanation. Deb is understandably shaken by what she's just seen but accepts, somewhat reluctantly, <b>Dexter</b>'s explanation that he's suffered momentary madness. As she thinks about it, <b>Dexter</b>'s explanation makes no sense and decides to dig deeper. Captain LaGuerta meanwhile is puzzled by a piece of evidence she found at the scene of the Marshall killing. When a member of the homicide squad is killed, Dexter goes all out to stop the killer before he ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11668"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11669,
+      "url": "https://www.tvmaze.com/episodes/11669/dexter-7x02-sunshine-and-frosty-swirl",
+      "name": "Sunshine and Frosty Swirl",
+      "season": 7,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2012-10-07",
+      "airtime": "21:00",
+      "airstamp": "2012-10-08T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494685.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494685.jpg"
+      },
+      "summary": "<p>With Deb having found all of <b>Dexter</b>'s paraphernalia, including the blood slides, he has little choice but to admit everything. She decides not to arrest him or let the police know what he does during his off hours. She does decide she's going to try and cure him and keeps him on a very short leash. <b>Dexter </b>is wondering more and more what to do about Louis Greene who he is convinced sent him the hand from the Ice Truck killer case. Louis doesn't scare easily however. The police continue to press the investigation into Mike Anderson's death not knowing that <b>Dexter</b> has ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11669"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11670,
+      "url": "https://www.tvmaze.com/episodes/11670/dexter-7x03-buck-the-system",
+      "name": "Buck the System",
+      "season": 7,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2012-10-14",
+      "airtime": "21:00",
+      "airstamp": "2012-10-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494686.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494686.jpg"
+      },
+      "summary": "<p>With Deb keeping a close eye on him, <b>Dexter </b>is starting to go stir crazy. He desperately wants to satisfy his dark passenger but first decides to get Louis Greene out of his life forever. Deb is growing increasingly frustrated at the lack of progress in finding Mike Anderson's killer. The murderer's employer, Isaak Sirko, is having much better luck and actually traces his former employee right to Dexter's boat. <b>Dexter </b>wants to kill someone and focuses on the recently paroled killer Ray Speltzer. Dexter is convinced that Speltzer will kill again and tries to convince ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11670"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11671,
+      "url": "https://www.tvmaze.com/episodes/11671/dexter-7x04-run",
+      "name": "Run",
+      "season": 7,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2012-10-21",
+      "airtime": "21:00",
+      "airstamp": "2012-10-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494687.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494687.jpg"
+      },
+      "summary": "<p>The police quickly catch up with Ray Speltzer and does a brilliant job interrogating him and getting a confession. She and others are shocked however when a judge ruled the arresting officers had violated his Miranda rights and releases him. When he shows up on the sidelines of his latest victim's funeral, Deb goes berserk and decides they have to get him at all costs. <b>Dexter </b>decides it's time for him to do what he does best. Meanwhile, the police are still raiding the strip club and owner Isaak Sirko decides it's time to give the police what they want and frames ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11671"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11672,
+      "url": "https://www.tvmaze.com/episodes/11672/dexter-7x05-swim-deep",
+      "name": "Swim Deep",
+      "season": 7,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2012-10-28",
+      "airtime": "21:00",
+      "airstamp": "2012-10-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494688.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494688.jpg"
+      },
+      "summary": "<p>After Deb learns that she has sent forensic evidence to an outside lab for analysis, Captain LaGuerta confides in her that she found a blood slide at the site of the Marshall killing and believes the Bay Harbor butcher is still alive. The Captain accepts Deb's offers to help her in the investigation. When <b>Dexter </b>learns what's going on, he just wants Deb to stay out of it. <b>Dexter </b>finds blood on his boat and tests reveal it belongs to Louis Greene. He soon after finds he has to deal with Isaak Sirko who is clearly out for revenge. <b>Dexter</b>'s plan to get him doesn't work ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11672"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11673,
+      "url": "https://www.tvmaze.com/episodes/11673/dexter-7x06-do-the-wrong-thing",
+      "name": "Do the Wrong Thing",
+      "season": 7,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2012-11-04",
+      "airtime": "21:00",
+      "airstamp": "2012-11-05T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494689.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494689.jpg"
+      },
+      "summary": "<p><b>Dexter </b>decides he's going to eliminate Hanna McKay and gathers evidence that she has eliminated a number of people in her life. Something unexpected occurs however. LaGuerta begins to think that the Bay Harbor Butcher may have been responsible for the deaths of several criminals who vanished before they could be arrested. After discussing the situation with Nadia, Quinn decides to return the money left in his car. He's given little choice but to help the mobsters: either he eliminates the blood evidence they have linking Isaak Sirko to the Colombian shooting or Nadia ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11673"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11674,
+      "url": "https://www.tvmaze.com/episodes/11674/dexter-7x07-chemistry",
+      "name": "Chemistry",
+      "season": 7,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2012-11-11",
+      "airtime": "21:00",
+      "airstamp": "2012-11-12T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494690.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494690.jpg"
+      },
+      "summary": "<p><b>Dexter</b>'s problems keep mounting. After the surprise outcome of his planned execution of Hannah McKay, they agree they are far too much alike and decide not to see each other again. It doesn't quite work out as planned. Dexter learns that true crime writer Sal Price is writing a book about Hannah as he is convinced she was an active participant in the murders believed to have been committed by her boyfriend. <b>Dexter </b>sets out to get Sal to go in another direction but Hannah takes charge of things. Deb wants Dexter to do what he does best. Meanwhile, Quinn comes under ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11674"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11675,
+      "url": "https://www.tvmaze.com/episodes/11675/dexter-7x08-argentina",
+      "name": "Argentina",
+      "season": 7,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2012-11-18",
+      "airtime": "21:00",
+      "airstamp": "2012-11-19T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494691.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494691.jpg"
+      },
+      "summary": "<p>Having spent the night together, Hannah and <b>Dexter </b>decide to see each other again. He's not so sure what he's going to do about Deb however. She is adamant that <b>Dexter </b>get rid of Hannah but he refuses, saying he's sure she doesn't want to be responsible for a murder. With everything he has to deal with, Cody and Astor come to stay with him after their grandfather is hospitalized. Deb finally breaks down and tells him her true feelings. Isaak Sirko decides to take a more direct approach and tries to shoot <b>Dexter </b>in broad daylight. Strip club manager George Novikov ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11675"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11676,
+      "url": "https://www.tvmaze.com/episodes/11676/dexter-7x09-helter-skelter",
+      "name": "Helter Skelter",
+      "season": 7,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2012-11-25",
+      "airtime": "21:00",
+      "airstamp": "2012-11-26T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494692.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494692.jpg"
+      },
+      "summary": "<p>Isaak Sirko learns that the Koshka Brotherhood has sent two assassins to Miami to eliminate him. Surprisingly he turns to Dexter with a proposition: help him eliminate the assassins in return for his life. Dexter's not too keen on the proposal and turns him down. Isaak acquires a trump card however: he's taken Hannah hostage and now offers him her life as well. Dexter also has to deal with Deb who is embarrassed by her earlier admission to Dexter that she's in love with him. Hannah meanwhile keeps trying to get Dexter to open up to her. Captain LaGuerta approaches her...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11676"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11677,
+      "url": "https://www.tvmaze.com/episodes/11677/dexter-7x10-the-dark-whatever",
+      "name": "The Dark... Whatever",
+      "season": 7,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2012-12-02",
+      "airtime": "21:00",
+      "airstamp": "2012-12-03T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494693.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494693.jpg"
+      },
+      "summary": "<p>There is another victim of the phantom arsonist, the fifth in two weeks. Dexter thinks has a pretty good idea who is behind it. He is frustrated because he promised Deb not to interfere in police cases. He tries to explain his dark passenger to Hannah but they're interrupted by a man peeking through the window - who turns out to be Hannah's father who has just been released from prison. He wasn't a very good father - he once left her alone in a motel room for three days while he went off to play poker. He seems to have reformed but after she refuses him a loan he ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11677"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11678,
+      "url": "https://www.tvmaze.com/episodes/11678/dexter-7x11-do-you-see-what-i-see",
+      "name": "Do You See What I See?",
+      "season": 7,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2012-12-09",
+      "airtime": "21:00",
+      "airstamp": "2012-12-10T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494694.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494694.jpg"
+      },
+      "summary": "<p>At Deb's request, Batista locates Arlene Schramm, the witness who saw Hannah McKay kill a counselor in a halfway house. When Deb blacks out and has a car accident, she thinks she knows who might have been responsible. <b>Dexter </b>learns that the last of the men who killed his mother, Hector Estrada, is up for parole but has no objection as he has his own plans for the killer. Matthews has a chat with <b>Dexter </b>and tells him of Captain LaGuerta's theory about him being the Bay Harbor Butcher. <b>Dexter </b>is quick on his feet and Matthews believes him when he denies it all. When ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11678"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11679,
+      "url": "https://www.tvmaze.com/episodes/11679/dexter-7x12-surprise-motherfucker",
+      "name": "Surprise, Motherfucker!",
+      "season": 7,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2012-12-16",
+      "airtime": "21:00",
+      "airstamp": "2012-12-17T02:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8.1
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494695.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494695.jpg"
+      },
+      "summary": "<p><b>Dexter </b>visits Hannah in jail to explain why he didn't protect her and she in turn explains why she did what she did. She seems to understand Dexter but has her own plans which don't include prison. Captain LaGuerta disregards the evidence she and Tom Matthews have discovered - and which <b>Dexter </b>planted - which points to Sgt. Doakes as the Bay Harbor Butcher and continues her investigation into Dexter. She arrests him but Dexter has set her up and she is forced to release him leading most at Miami Metro to believe she was trying to frame him. Dexter still wants to get ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11679"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11680,
+      "url": "https://www.tvmaze.com/episodes/11680/dexter-8x01-a-beautiful-day",
+      "name": "A Beautiful Day",
+      "season": 8,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2013-06-30",
+      "airtime": "21:00",
+      "airstamp": "2013-07-01T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494696.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494696.jpg"
+      },
+      "summary": "<p>It's now 6 months since Captain LaGuerta's death. Dexter is still working as a blood spatter expert but Deb has quit the force and is now working as a private investigator. She's also been avoiding Dexter as much as possible. Angel Batista is now the squad's Lieutenant and Tom Matthews is a Deputy Chief. Dexter is worried about Deb in general but even more so after he hears she hasn't been in touch with her new boss for two weeks. Metro homicide has a new case after a body is found on the beach. The man's skull has been sliced open and a small part of his brain ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11680"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11681,
+      "url": "https://www.tvmaze.com/episodes/11681/dexter-8x02-every-silver-lining",
+      "name": "Every Silver Lining...",
+      "season": 8,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2013-07-07",
+      "airtime": "21:00",
+      "airstamp": "2013-07-08T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494697.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494697.jpg"
+      },
+      "summary": "<p>Dr. Vogel shows <b>Dexter </b>some video she shot when his father Harry visited her for help in treating him. Dexter was only 10 years old when Harry first visited her and she takes more than just a little of the credit for what Dexter calls Harry's code: that he would only kill bad people. Vogel says she did it because she cared for him. Having saved his life, she now wants to call in a favor: she thinks the man who recently sliced open someone's brain and left the body on the beach is one of her former patients. She wants Dexter to do what she and Harry taught him to do. ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11681"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11682,
+      "url": "https://www.tvmaze.com/episodes/11682/dexter-8x03-whats-eating-dexter-morgan",
+      "name": "What's Eating Dexter Morgan?",
+      "season": 8,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2013-07-14",
+      "airtime": "21:00",
+      "airstamp": "2013-07-15T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494698.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494698.jpg"
+      },
+      "summary": "<p>Deb is going through a particularly bad patch and there is nothing <b>Dexter </b>can seemingly do about it. A cop finds her behind the wheel of her car, drunk. She had the good sense to pull over but ran over a parking meter in the process. She contacts Quinn who manages to get her out without being charged. Dexter blames himself but Vogel says he shouldn't take on her problems. She also wonders why Dexter didn't kill her when she found out about him. Drunk again, Deb goes to the station and tells Quinn she killed LaGuerta. Meanwhile, Dexter and the police check out Lyle ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11682"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11683,
+      "url": "https://www.tvmaze.com/episodes/11683/dexter-8x04-scar-tissue",
+      "name": "Scar Tissue",
+      "season": 8,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2013-07-21",
+      "airtime": "21:00",
+      "airstamp": "2013-07-22T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494699.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494699.jpg"
+      },
+      "summary": "<p>The next potential killer on Vogel's list is A.J. Yates, who was institutionalized at 15. Vogel tried to channel his hostilities much as she did with Dexter but was unable to do so. When Dexter sees a huge scar on his head, he learns from Vogel that Yates had surgery to remove a brain lesion. He breaks into Yates' house and finds something interesting in the closet. <b>Dexter </b>isn't alone in the house however and it looks he may be their man. He also finds something that affects his relationship with Vogel. Dexter meets a neighbor, Cassie, from the next door apartment. ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11683"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11684,
+      "url": "https://www.tvmaze.com/episodes/11684/dexter-8x05-this-little-piggy",
+      "name": "This Little Piggy",
+      "season": 8,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2013-07-28",
+      "airtime": "21:00",
+      "airstamp": "2013-07-29T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494700.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494700.jpg"
+      },
+      "summary": "<p>Dr. Vogel tells Dexter that Deb was traumatized when she tried to kill him. Now that she's hit rock bottom, things will improve. Dexter isn't too happy with either Vogel or Deb and concentrates on finding serial killer A.J. Yates. Deb and Dexter have another problem when Yates kidnaps Vogel and they set out to rescue her. At the station, the police continue investigating the death of Norma Rivera. She had sex not long before dying and they assume that whoever that was is also the man who killed her. They have a suspect, her former employer Ed Hamilton, who admits to ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11684"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11685,
+      "url": "https://www.tvmaze.com/episodes/11685/dexter-8x06-a-little-reflection",
+      "name": "A Little Reflection",
+      "season": 8,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2013-08-04",
+      "airtime": "21:00",
+      "airstamp": "2013-08-05T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494701.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494701.jpg"
+      },
+      "summary": "<p><b>Dexter </b>is convinced that Zack Hamilton killed Norma Rivera but has no proof and takes to following him whenever he can. He's more than a bit surprised to follow him to Dr. Vogel's office. She admits that Zach is a new patient but refuses to talk about his case. Batista is under pressure from Deputy Chief Tom Matthews to make a decision on who to promote to sergeant. When Quinn learns he didn't get the job, he redoubles his effort to solve the Rivera murder. With Dexter tagging along, it becomes obvious - to Dexter at least - that Zack is stalking his next victim, ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11685"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11686,
+      "url": "https://www.tvmaze.com/episodes/11686/dexter-8x07-dress-code",
+      "name": "Dress Code",
+      "season": 8,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2013-08-11",
+      "airtime": "21:00",
+      "airstamp": "2013-08-12T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494702.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494702.jpg"
+      },
+      "summary": "<p>After being drugged by Hannah McKay, Dexter wakes up in an industrial area outside of town. He knows that Hannah is responsible and she's surprisingly easy to find, which makes Dexter more than just a bit suspicious. It turns out she's living on a luxury yacht with her husband Jacob. She's changed her name to Maggie and says she's quite happy. Her husband doesn't appreciate the fact that she's met with Dexter forcing her to take action and for Dexter to help her out. Meanwhile, Dexter has agreed to teach Zach Hamilton the code - to Dr. Vogel's delight - but he is ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11686"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11687,
+      "url": "https://www.tvmaze.com/episodes/11687/dexter-8x08-are-we-there-yet",
+      "name": "Are We There Yet?",
+      "season": 8,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2013-08-18",
+      "airtime": "21:00",
+      "airstamp": "2013-08-19T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494703.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494703.jpg"
+      },
+      "summary": "<p><b>Dexter </b>is certain that Zach Hamilton killed his next door neighbor Cassie, who is found bludgeoned to death in her apartment. The scene suggests that the crime was impulsive rather than planned, as was the case with the death of Norma Rivera. Dexter finds Zach's blood under her fingernails but can't report it for obvious reasons. Zach is in the Keys - he's used his credit card - and Dexter and Hannah set off to find him. What he finds there impresses Dexter but also suggests that Zach isn't the killer. Meanwhile, Dexter is also helping Hannah acquire a new identity ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11687"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11688,
+      "url": "https://www.tvmaze.com/episodes/11688/dexter-8x09-make-your-own-kind-of-music",
+      "name": "Make Your Own Kind of Music",
+      "season": 8,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2013-08-25",
+      "airtime": "21:00",
+      "airstamp": "2013-08-26T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494704.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494704.jpg"
+      },
+      "summary": "<p><b>Dexter </b>has decided to make a new life for himself with Hannah and Harrison but not before he takes care of the Brain Surgeon. In searching Zach Hamilton's photo studio he finds a clump of hair and blood hidden under a table. When Dexter runs the sample against the DNA database he finds a familial match - to Dr. Evelyn Vogel. Somewhat incredulous at his revelation, Vogel explains that she once had two sons, the eldest of which killed the other. He was placed in a mental institution but died in fire. Dexter believes he must have survived and soon has him identified. Deb...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11688"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11689,
+      "url": "https://www.tvmaze.com/episodes/11689/dexter-8x10-goodbye-miami",
+      "name": "Goodbye Miami",
+      "season": 8,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2013-09-08",
+      "airtime": "21:00",
+      "airstamp": "2013-09-09T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494705.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494705.jpg"
+      },
+      "summary": "<p>Having made the decision that he and Harrison will move to Argentina with Hannah, <b>Dexter </b>has a lot to do. He tells Deb about his plan but that doesn't go over very well. He also tells Dr, Vogel that her son, Saxon, is dangerous and she is in need of protection. She insists that he back off and let her deal with him in her own way but <b>Dexter </b>has no intention of leaving Miami while Saxon is alive. Saxon has problems however and he takes his mother to his killing room explaining that it's identical to the treatment room at the mental hospital she put him in. He wants his...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11689"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11690,
+      "url": "https://www.tvmaze.com/episodes/11690/dexter-8x11-monkey-in-a-box",
+      "name": "Monkey in a Box",
+      "season": 8,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2013-09-15",
+      "airtime": "21:00",
+      "airstamp": "2013-09-16T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 7.2
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/197/494706.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/197/494706.jpg"
+      },
+      "summary": "<p>Still coming to terms with Dr. Vogel's death, <b>Dexter</b> wants to eliminate Oliver Saxon before he, Harrison and Hannah head off to South America. He also has a lot of personal items to tie up including selling his condo. Saxon shows up as a prospective buyer and offers <b>Dexter </b>a deal: they stop going after each other and go their own way. <b>Dexter </b>is non-committal and, having located his kill room, sets a trap for him. Meanwhile, U.S. Deputy Marshall Clayton is following Deb, certain that she will lead him to Hannah. <b>Dexter </b>is continuing to reevaluate his priorities and his...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11690"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    },
+    {
+      "id": 11691,
+      "url": "https://www.tvmaze.com/episodes/11691/dexter-8x12-remember-the-monsters",
+      "name": "Remember the Monsters?",
+      "season": 8,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2013-09-22",
+      "airtime": "21:00",
+      "airstamp": "2013-09-23T01:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 5.6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/13/34304.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/13/34304.jpg"
+      },
+      "summary": "<p><b>Dexter </b>has to act quickly when Hannah tells him Elway is staking out the airport. He finds a way to get him out of the way but it also leads to the entire airport being closed. With a hurricane bearing down on Miami, few options are open to them. <b>Dexter </b>races to the hospital when he learns that Deb has been shot. She seems to be recovering and he decides to send Hannah and Harrison to Jacksonville where they could catch a flight. A return trip to the hospital leads to Saxon's arrest but also bad news about Deb. Realizing that he has, directly or indirectly, been ...</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/11691"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/161"
+        }
+      }
+    }
+  ]

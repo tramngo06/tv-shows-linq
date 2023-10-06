@@ -1,0 +1,4314 @@
+[
+    {
+      "id": 142020,
+      "url": "https://www.tvmaze.com/episodes/142020/steven-universe-1x01-gem-glow",
+      "name": "Gem Glow",
+      "season": 1,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2013-11-04",
+      "airtime": "20:00",
+      "airstamp": "2013-11-05T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956272.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956272.jpg"
+      },
+      "summary": "<p>Steven eats cookie cat's and mistakenly thinks they have activated his gem.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142020"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142021,
+      "url": "https://www.tvmaze.com/episodes/142021/steven-universe-1x02-laser-light-cannon",
+      "name": "Laser Light Cannon",
+      "season": 1,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2013-11-04",
+      "airtime": "20:15",
+      "airstamp": "2013-11-05T01:15:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956273.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956273.jpg"
+      },
+      "summary": "<p>When a menacing red eye is about to hit Beach City, the only thing that can destroy it is a Laser Light Cannon which once belonged to Steven's mother, Rose Quartz. Thus, Steven enlists the help of his father, Greg, and they search through his storage for the cannon.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142021"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142022,
+      "url": "https://www.tvmaze.com/episodes/142022/steven-universe-1x03-cheeseburger-backpack",
+      "name": "Cheeseburger Backpack",
+      "season": 1,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2013-11-11",
+      "airtime": "20:00",
+      "airstamp": "2013-11-12T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956274.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956274.jpg"
+      },
+      "summary": "<p>The Crystal Gems go on a mission to place a Moon Goddess statue on top of the ruined Lunar Sea Spire, and Steven tries to prove he can be useful with the help of his new novelty Cheeseburger Backpack.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142022"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142023,
+      "url": "https://www.tvmaze.com/episodes/142023/steven-universe-1x04-together-breakfast",
+      "name": "Together Breakfast",
+      "season": 1,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2013-11-11",
+      "airtime": "20:15",
+      "airstamp": "2013-11-12T01:15:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956275.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956275.jpg"
+      },
+      "summary": "<p>Steven's attempt to get the Gems to share his special breakfast tradition lands him on a journey through their ancient Gem temple.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142023"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142024,
+      "url": "https://www.tvmaze.com/episodes/142024/steven-universe-1x05-frybo",
+      "name": "Frybo",
+      "season": 1,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2013-11-18",
+      "airtime": "20:00",
+      "airstamp": "2013-11-19T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956276.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956276.jpg"
+      },
+      "summary": "<p>Steven brings a mascot costume to life with a magical gem shard in order help his friend Peedee, but it backfires when the mascot goes rogue.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142024"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142025,
+      "url": "https://www.tvmaze.com/episodes/142025/steven-universe-1x06-cat-fingers",
+      "name": "Cat Fingers",
+      "season": 1,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2013-11-25",
+      "airtime": "20:00",
+      "airstamp": "2013-11-26T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956277.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956277.jpg"
+      },
+      "summary": "<p>Steven tries to master his shapeshifting abilities with Amethyst, but turns his fingers into cats, making it harder to do things.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142025"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142026,
+      "url": "https://www.tvmaze.com/episodes/142026/steven-universe-1x07-bubble-buddies",
+      "name": "Bubble Buddies",
+      "season": 1,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2013-12-02",
+      "airtime": "20:00",
+      "airstamp": "2013-12-03T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956278.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956278.jpg"
+      },
+      "summary": "<p>Steven forms a magic bubble around himself and a girl named Connie to save her from a falling rock, but he has no idea how to make it disappear.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142026"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142027,
+      "url": "https://www.tvmaze.com/episodes/142027/steven-universe-1x08-serious-steven",
+      "name": "Serious Steven",
+      "season": 1,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2014-01-13",
+      "airtime": "20:00",
+      "airstamp": "2014-01-14T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956279.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956279.jpg"
+      },
+      "summary": "<p>While navigating out of an ancient Gem maze, Steven tries to prove himself to the Gems by being serious.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142027"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142028,
+      "url": "https://www.tvmaze.com/episodes/142028/steven-universe-1x09-tiger-millionaire",
+      "name": "Tiger Millionaire",
+      "season": 1,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2014-01-20",
+      "airtime": "20:00",
+      "airstamp": "2014-01-21T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956280.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956280.jpg"
+      },
+      "summary": "<p>Steven joins an underground wrestling league with Amethyst, who's tired of Garnet and Pearl bringing her down.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142028"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142029,
+      "url": "https://www.tvmaze.com/episodes/142029/steven-universe-1x10-stevens-lion",
+      "name": "Steven's Lion",
+      "season": 1,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2014-01-27",
+      "airtime": "20:00",
+      "airstamp": "2014-01-28T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956281.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956281.jpg"
+      },
+      "summary": "<p>Steven befriends a magical lion he finds in the desert during a mission.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142029"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142030,
+      "url": "https://www.tvmaze.com/episodes/142030/steven-universe-1x11-arcade-mania",
+      "name": "Arcade Mania",
+      "season": 1,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2014-02-17",
+      "airtime": "20:45",
+      "airstamp": "2014-02-18T01:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956282.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956282.jpg"
+      },
+      "summary": "<p>Steven takes the Gems on <i>his</i> own kind of adventure by bringing them to the Funland Arcade, where Garnet becomes enchanted by a rhythm game.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142030"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142031,
+      "url": "https://www.tvmaze.com/episodes/142031/steven-universe-1x12-giant-woman",
+      "name": "Giant Woman",
+      "season": 1,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2014-02-24",
+      "airtime": "20:00",
+      "airstamp": "2014-02-25T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956283.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956283.jpg"
+      },
+      "summary": "<p>Steven encourages Amethyst and Pearl to fuse together into a four-armed \"giant woman\" named Opal. Amethyst and Pearl, however, keep on quarrelling.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142031"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142032,
+      "url": "https://www.tvmaze.com/episodes/142032/steven-universe-1x13-so-many-birthdays",
+      "name": "So Many Birthdays",
+      "season": 1,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2014-03-03",
+      "airtime": "20:00",
+      "airstamp": "2014-03-04T01:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956284.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956284.jpg"
+      },
+      "summary": "<p>After learning that the Gems are thousands of years old, Steven decides to make up for all the birthdays they've missed.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142032"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142033,
+      "url": "https://www.tvmaze.com/episodes/142033/steven-universe-1x14-lars-and-the-cool-kids",
+      "name": "Lars and the Cool Kids",
+      "season": 1,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2014-03-10",
+      "airtime": "20:00",
+      "airstamp": "2014-03-11T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956285.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956285.jpg"
+      },
+      "summary": "<p>Steven and Lars get to hang out with the cool kids (Jenny Pizza, Buck Dewey, and Sour Cream) in town, but their teenage shenanigans get them into magical trouble.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142033"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142034,
+      "url": "https://www.tvmaze.com/episodes/142034/steven-universe-1x15-onion-trade",
+      "name": "Onion Trade",
+      "season": 1,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2014-03-17",
+      "airtime": "20:00",
+      "airstamp": "2014-03-18T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956286.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956286.jpg"
+      },
+      "summary": "<p>A toy trade between Steven and Onion escalates into epic proportions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142034"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142035,
+      "url": "https://www.tvmaze.com/episodes/142035/steven-universe-1x16-steven-the-sword-fighter",
+      "name": "Steven the Sword Fighter",
+      "season": 1,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2014-04-09",
+      "airtime": "19:00",
+      "airstamp": "2014-04-09T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956287.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956287.jpg"
+      },
+      "summary": "<p>Pearl's attempt to teach Steven the art of sword-fighting using a holographic version of herself goes awry when she gets injured and has to retreat into her gem to heal.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142035"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142036,
+      "url": "https://www.tvmaze.com/episodes/142036/steven-universe-1x17-lion-2-the-movie",
+      "name": "Lion 2: The Movie",
+      "season": 1,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2014-04-23",
+      "airtime": "19:00",
+      "airstamp": "2014-04-23T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956288.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956288.jpg"
+      },
+      "summary": "<p>Steven and Connie try to ride Lion to the movie theater, but Lion (unfortunately) has other plans.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142036"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142037,
+      "url": "https://www.tvmaze.com/episodes/142037/steven-universe-1x18-beach-party",
+      "name": "Beach Party",
+      "season": 1,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2014-04-30",
+      "airtime": "19:00",
+      "airstamp": "2014-04-30T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956289.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956289.jpg"
+      },
+      "summary": "<p>After a battle damages the Fish Stew Pizza sign, the Gems are banned from the restaurant, so Steven throws a cookout on the beachside to mend the relationship between the Pizza family and the Gems.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142037"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142038,
+      "url": "https://www.tvmaze.com/episodes/142038/steven-universe-1x19-roses-room",
+      "name": "Rose's Room",
+      "season": 1,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2014-05-14",
+      "airtime": "19:00",
+      "airstamp": "2014-05-14T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956290.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956290.jpg"
+      },
+      "summary": "<p>Steven's desire for some alone time unlocks a new room in the temple that answers his every wish.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142038"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142039,
+      "url": "https://www.tvmaze.com/episodes/142039/steven-universe-1x20-coach-steven",
+      "name": "Coach Steven",
+      "season": 1,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2014-08-21",
+      "airtime": "18:30",
+      "airstamp": "2014-08-21T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956291.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956291.jpg"
+      },
+      "summary": "<p>Against Pearl's wishes, Steven becomes determined to get stronger after watching Garnet and Amethyst fuse into the mighty Sugilite.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142039"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142040,
+      "url": "https://www.tvmaze.com/episodes/142040/steven-universe-1x21-joking-victim",
+      "name": "Joking Victim",
+      "season": 1,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2014-08-28",
+      "airtime": "18:30",
+      "airstamp": "2014-08-28T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956292.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956292.jpg"
+      },
+      "summary": "<p>Steven works at the Big Donut when Lars leaves Sadie with all the work.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142040"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142041,
+      "url": "https://www.tvmaze.com/episodes/142041/steven-universe-1x22-steven-and-the-stevens",
+      "name": "Steven and the Stevens",
+      "season": 1,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2014-09-04",
+      "airtime": "18:30",
+      "airstamp": "2014-09-04T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956293.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956293.jpg"
+      },
+      "summary": "<p>Steven needs a musical partner for an upcoming show, so he uses a time travel device to recruit himself as the perfect bandmate.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142041"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142042,
+      "url": "https://www.tvmaze.com/episodes/142042/steven-universe-1x23-monster-buddies",
+      "name": "Monster Buddies",
+      "season": 1,
+      "number": 23,
+      "type": "regular",
+      "airdate": "2014-09-11",
+      "airtime": "18:30",
+      "airstamp": "2014-09-11T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956294.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956294.jpg"
+      },
+      "summary": "<p>Steven attempts to tame a Gem monster's wild form when he accidentally releases it from its bubble.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142042"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142043,
+      "url": "https://www.tvmaze.com/episodes/142043/steven-universe-1x24-an-indirect-kiss",
+      "name": "An Indirect Kiss",
+      "season": 1,
+      "number": 24,
+      "type": "regular",
+      "airdate": "2014-09-18",
+      "airtime": "18:30",
+      "airstamp": "2014-09-18T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956295.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956295.jpg"
+      },
+      "summary": "<p>Steven tells Connie about his mission with the Gems to heal Amethyst when she cracked her gem.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142043"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142044,
+      "url": "https://www.tvmaze.com/episodes/142044/steven-universe-1x25-mirror-gem",
+      "name": "Mirror Gem",
+      "season": 1,
+      "number": 25,
+      "type": "regular",
+      "airdate": "2014-09-25",
+      "airtime": "18:30",
+      "airstamp": "2014-09-25T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956296.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956296.jpg"
+      },
+      "summary": "<p>Steven befriends a magical mirror that can mysteriously communicate with him, and ends up freeing its trapped captive: Lapis Lazuli, another mysterious Gem.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142044"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142045,
+      "url": "https://www.tvmaze.com/episodes/142045/steven-universe-1x26-ocean-gem",
+      "name": "Ocean Gem",
+      "season": 1,
+      "number": 26,
+      "type": "regular",
+      "airdate": "2014-09-25",
+      "airtime": "18:45",
+      "airstamp": "2014-09-25T22:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956297.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956297.jpg"
+      },
+      "summary": "<p>Lapis Lazuli disappears after reigniting a past conflict with the three Crystal Gems and takes the ocean with her, leaving Beach City in a panic on the first day of summer. Steven, Connie, Greg, Lion and the Gems go on a mission to confront Lapis and set things right.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142045"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142046,
+      "url": "https://www.tvmaze.com/episodes/142046/steven-universe-1x27-house-guest",
+      "name": "House Guest",
+      "season": 1,
+      "number": 27,
+      "type": "regular",
+      "airdate": "2014-10-02",
+      "airtime": "18:45",
+      "airstamp": "2014-10-02T22:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956298.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956298.jpg"
+      },
+      "summary": "<p>Greg moves in with Steven after injuring his leg.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142046"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142047,
+      "url": "https://www.tvmaze.com/episodes/142047/steven-universe-1x28-space-race",
+      "name": "Space Race",
+      "season": 1,
+      "number": 28,
+      "type": "regular",
+      "airdate": "2014-10-09",
+      "airtime": "18:45",
+      "airstamp": "2014-10-09T22:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956299.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956299.jpg"
+      },
+      "summary": "<p>Steven tries to build a spaceship for Pearl.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142047"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142048,
+      "url": "https://www.tvmaze.com/episodes/142048/steven-universe-1x29-secret-team",
+      "name": "Secret Team",
+      "season": 1,
+      "number": 29,
+      "type": "regular",
+      "airdate": "2014-10-16",
+      "airtime": "18:45",
+      "airstamp": "2014-10-16T22:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956300.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956300.jpg"
+      },
+      "summary": "<p>A Secret Team is formed to retrieve the missing shards of a popped gem.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142048"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142049,
+      "url": "https://www.tvmaze.com/episodes/142049/steven-universe-1x30-island-adventure",
+      "name": "Island Adventure",
+      "season": 1,
+      "number": 30,
+      "type": "regular",
+      "airdate": "2014-10-23",
+      "airtime": "18:45",
+      "airstamp": "2014-10-23T22:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956301.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956301.jpg"
+      },
+      "summary": "<p>Steven, Lars and Sadie visit a beach to mend their friendship.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142049"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142050,
+      "url": "https://www.tvmaze.com/episodes/142050/steven-universe-1x31-keep-beach-city-weird",
+      "name": "Keep Beach City Weird",
+      "season": 1,
+      "number": 31,
+      "type": "regular",
+      "airdate": "2014-10-30",
+      "airtime": "18:45",
+      "airstamp": "2014-10-30T22:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956302.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956302.jpg"
+      },
+      "summary": "<p>Steven gets caught up in paranormal theories.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142050"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142053,
+      "url": "https://www.tvmaze.com/episodes/142053/steven-universe-1x32-fusion-cuisine",
+      "name": "Fusion Cuisine",
+      "season": 1,
+      "number": 32,
+      "type": "regular",
+      "airdate": "2014-11-06",
+      "airtime": "18:45",
+      "airstamp": "2014-11-06T23:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956303.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956303.jpg"
+      },
+      "summary": "<p>Steven convinces the Gems to act as his mother.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142053"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142051,
+      "url": "https://www.tvmaze.com/episodes/142051/steven-universe-1x33-garnets-universe",
+      "name": "Garnet's Universe",
+      "season": 1,
+      "number": 33,
+      "type": "regular",
+      "airdate": "2014-11-13",
+      "airtime": "18:45",
+      "airstamp": "2014-11-13T23:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956304.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956304.jpg"
+      },
+      "summary": "<p>Steven imagines what garnet does before she returns.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142051"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142052,
+      "url": "https://www.tvmaze.com/episodes/142052/steven-universe-1x34-watermelon-steven",
+      "name": "Watermelon Steven",
+      "season": 1,
+      "number": 34,
+      "type": "regular",
+      "airdate": "2014-11-20",
+      "airtime": "18:45",
+      "airstamp": "2014-11-20T23:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956305.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956305.jpg"
+      },
+      "summary": "<p>Steven grows a patch of watermelons and discovers a new power.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142052"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142054,
+      "url": "https://www.tvmaze.com/episodes/142054/steven-universe-1x35-lion-3-straight-to-video",
+      "name": "Lion 3: Straight to Video",
+      "season": 1,
+      "number": 35,
+      "type": "regular",
+      "airdate": "2014-12-04",
+      "airtime": "18:30",
+      "airstamp": "2014-12-04T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956306.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956306.jpg"
+      },
+      "summary": "<p>Lion lays on Steven's face while he sleeps.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142054"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142055,
+      "url": "https://www.tvmaze.com/episodes/142055/steven-universe-1x36-warp-tour",
+      "name": "Warp Tour",
+      "season": 1,
+      "number": 36,
+      "type": "regular",
+      "airdate": "2015-01-08",
+      "airtime": "18:30",
+      "airstamp": "2015-01-08T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956307.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956307.jpg"
+      },
+      "summary": "<p>Steven thinks he sees something creepy traversing the warp streams and the Gems try to ease his paranoia.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142055"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142056,
+      "url": "https://www.tvmaze.com/episodes/142056/steven-universe-1x37-alone-together",
+      "name": "Alone Together",
+      "season": 1,
+      "number": 37,
+      "type": "regular",
+      "airdate": "2015-01-15",
+      "airtime": "18:30",
+      "airstamp": "2015-01-15T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956308.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956308.jpg"
+      },
+      "summary": "<p>The Gems try to teach Steven to use his fusion powers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142056"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142057,
+      "url": "https://www.tvmaze.com/episodes/142057/steven-universe-1x38-the-test",
+      "name": "The Test",
+      "season": 1,
+      "number": 38,
+      "type": "regular",
+      "airdate": "2015-01-22",
+      "airtime": "18:30",
+      "airstamp": "2015-01-22T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956309.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956309.jpg"
+      },
+      "summary": "<p>Steven finds out that his mission to the Lunar Sea Spire was a test and demands a new quest.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142057"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142058,
+      "url": "https://www.tvmaze.com/episodes/142058/steven-universe-1x39-future-vision",
+      "name": "Future Vision",
+      "season": 1,
+      "number": 39,
+      "type": "regular",
+      "airdate": "2015-01-29",
+      "airtime": "18:30",
+      "airstamp": "2015-01-29T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956310.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956310.jpg"
+      },
+      "summary": "<p>Steven learns that Garnet can see into the future and becomes curious about the possible dangers that lurk around him.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142058"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142059,
+      "url": "https://www.tvmaze.com/episodes/142059/steven-universe-1x40-on-the-run",
+      "name": "On the Run",
+      "season": 1,
+      "number": 40,
+      "type": "regular",
+      "airdate": "2015-02-05",
+      "airtime": "18:30",
+      "airstamp": "2015-02-05T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956311.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956311.jpg"
+      },
+      "summary": "<p>Steven and Amethyst try out life on the road.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142059"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142060,
+      "url": "https://www.tvmaze.com/episodes/142060/steven-universe-1x41-horror-club",
+      "name": "Horror Club",
+      "season": 1,
+      "number": 41,
+      "type": "regular",
+      "airdate": "2015-02-12",
+      "airtime": "18:30",
+      "airstamp": "2015-02-12T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956312.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956312.jpg"
+      },
+      "summary": "<p>Steven goes to the lighthouse to watch scary movies with Ronaldo, Lars and Sadie.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142060"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142061,
+      "url": "https://www.tvmaze.com/episodes/142061/steven-universe-1x42-winter-forecast",
+      "name": "Winter Forecast",
+      "season": 1,
+      "number": 42,
+      "type": "regular",
+      "airdate": "2015-02-19",
+      "airtime": "18:30",
+      "airstamp": "2015-02-19T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956313.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956313.jpg"
+      },
+      "summary": "<p>Steven has to get Connie home before it snows.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142061"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142062,
+      "url": "https://www.tvmaze.com/episodes/142062/steven-universe-1x43-maximum-capacity",
+      "name": "Maximum Capacity",
+      "season": 1,
+      "number": 43,
+      "type": "regular",
+      "airdate": "2015-02-26",
+      "airtime": "18:30",
+      "airstamp": "2015-02-26T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956314.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956314.jpg"
+      },
+      "summary": "<p>A garage sale reunites Greg and Amethyst with their favorite cheesy sitcom - Lil' Butler.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142062"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 142377,
+      "url": "https://www.tvmaze.com/episodes/142377/steven-universe-1x44-marble-madness",
+      "name": "Marble Madness",
+      "season": 1,
+      "number": 44,
+      "type": "regular",
+      "airdate": "2015-03-05",
+      "airtime": "18:30",
+      "airstamp": "2015-03-05T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956315.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956315.jpg"
+      },
+      "summary": "<p>Steven and the Gems encounter another droid from space.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/142377"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 143089,
+      "url": "https://www.tvmaze.com/episodes/143089/steven-universe-1x45-roses-scabbard",
+      "name": "Rose's Scabbard",
+      "season": 1,
+      "number": 45,
+      "type": "regular",
+      "airdate": "2015-03-09",
+      "airtime": "17:00",
+      "airstamp": "2015-03-09T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956316.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956316.jpg"
+      },
+      "summary": "<p>Steven joins Pearl on a special mission to a place that belonged to Rose-Quartz.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/143089"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 143090,
+      "url": "https://www.tvmaze.com/episodes/143090/steven-universe-1x46-the-message",
+      "name": "The Message",
+      "season": 1,
+      "number": 46,
+      "type": "regular",
+      "airdate": "2015-03-10",
+      "airtime": "17:00",
+      "airstamp": "2015-03-10T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956317.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956317.jpg"
+      },
+      "summary": "<p>Steven and the Gems try to retrieve a message from the Wailing Stone.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/143090"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 143091,
+      "url": "https://www.tvmaze.com/episodes/143091/steven-universe-1x47-political-power",
+      "name": "Political Power",
+      "season": 1,
+      "number": 47,
+      "type": "regular",
+      "airdate": "2015-03-11",
+      "airtime": "17:00",
+      "airstamp": "2015-03-11T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956318.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956318.jpg"
+      },
+      "summary": "<p>The Gems cause a power outage in Beach City, and Steven helps Mayor Dewey do damage control.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/143091"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 143092,
+      "url": "https://www.tvmaze.com/episodes/143092/steven-universe-1x48-the-return",
+      "name": "The Return",
+      "season": 1,
+      "number": 48,
+      "type": "regular",
+      "airdate": "2015-03-12",
+      "airtime": "17:00",
+      "airstamp": "2015-03-12T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956319.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956319.jpg"
+      },
+      "summary": "<p>Steven teams up with a new ally to rescue the Gems.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/143092"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 143093,
+      "url": "https://www.tvmaze.com/episodes/143093/steven-universe-1x49-jailbreak",
+      "name": "Jailbreak",
+      "season": 1,
+      "number": 49,
+      "type": "regular",
+      "airdate": "2015-03-12",
+      "airtime": "17:00",
+      "airstamp": "2015-03-12T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956320.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956320.jpg"
+      },
+      "summary": "<p>Steven is in outer space as he meets new gems and tries to make his way around the ship.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/143093"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 143094,
+      "url": "https://www.tvmaze.com/episodes/143094/steven-universe-1x50-full-disclosure",
+      "name": "Full Disclosure",
+      "season": 1,
+      "number": 50,
+      "type": "regular",
+      "airdate": "2015-03-13",
+      "airtime": "17:00",
+      "airstamp": "2015-03-13T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956321.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956321.jpg"
+      },
+      "summary": "<p>After defeating Jasper and Peridot, Steven has trouble telling Connie about his most recent adventure.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/143094"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 144310,
+      "url": "https://www.tvmaze.com/episodes/144310/steven-universe-1x51-open-book",
+      "name": "Open Book",
+      "season": 1,
+      "number": 51,
+      "type": "regular",
+      "airdate": "2015-03-19",
+      "airtime": "17:00",
+      "airstamp": "2015-03-19T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956322.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956322.jpg"
+      },
+      "summary": "<p>Steven and Connie want a new ending to a beloved book series, so Steven takes them into Rose's Room to re-enact it.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144310"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 144311,
+      "url": "https://www.tvmaze.com/episodes/144311/steven-universe-1x52-joy-ride",
+      "name": "Joy Ride",
+      "season": 1,
+      "number": 52,
+      "type": "regular",
+      "airdate": "2015-03-26",
+      "airtime": "17:00",
+      "airstamp": "2015-03-26T21:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956323.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956323.jpg"
+      },
+      "summary": "<p>The Cool Kids help Steven put some fun back in his life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/144311"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 151157,
+      "url": "https://www.tvmaze.com/episodes/151157/steven-universe-2x01-say-uncle",
+      "name": "Say Uncle",
+      "season": 2,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2015-04-02",
+      "airtime": "17:30",
+      "airstamp": "2015-04-02T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956325.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956325.jpg"
+      },
+      "summary": "<p>Steven meets Uncle Grandpa</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/151157"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 562134,
+      "url": "https://www.tvmaze.com/episodes/562134/steven-universe-2x02-story-for-steven",
+      "name": "Story for Steven",
+      "season": 2,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2015-04-09",
+      "airtime": "17:30",
+      "airstamp": "2015-04-09T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956326.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956326.jpg"
+      },
+      "summary": "<p>Greg reveals how he met Rose-Quartz.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/562134"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 562137,
+      "url": "https://www.tvmaze.com/episodes/562137/steven-universe-2x03-shirt-club",
+      "name": "Shirt Club",
+      "season": 2,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2015-04-16",
+      "airtime": "17:30",
+      "airstamp": "2015-04-16T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956327.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956327.jpg"
+      },
+      "summary": "<p>Steven makes T-shirts with Buck Dewey.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/562137"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 153134,
+      "url": "https://www.tvmaze.com/episodes/153134/steven-universe-2x04-love-letters",
+      "name": "Love Letters",
+      "season": 2,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2015-04-23",
+      "airtime": "17:30",
+      "airstamp": "2015-04-23T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956328.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956328.jpg"
+      },
+      "summary": "<p>Steven and Connie help Jamie the mailman with love.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/153134"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 153135,
+      "url": "https://www.tvmaze.com/episodes/153135/steven-universe-2x05-reformed",
+      "name": "Reformed",
+      "season": 2,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2015-04-30",
+      "airtime": "17:30",
+      "airstamp": "2015-04-30T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956329.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956329.jpg"
+      },
+      "summary": "<p>Steven, Amethyst and Garnet chase a corrupted gem monster through the Temple.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/153135"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 171256,
+      "url": "https://www.tvmaze.com/episodes/171256/steven-universe-2x06-sworn-to-the-sword",
+      "name": "Sworn to the Sword",
+      "season": 2,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2015-06-15",
+      "airtime": "18:00",
+      "airstamp": "2015-06-15T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956330.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956330.jpg"
+      },
+      "summary": "<p>Connie wants to learn sword fighting.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/171256"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 162093,
+      "url": "https://www.tvmaze.com/episodes/162093/steven-universe-2x07-rising-tides-crashing-skies",
+      "name": "Rising Tides, Crashing Skies",
+      "season": 2,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2015-06-16",
+      "airtime": "18:00",
+      "airstamp": "2015-06-16T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956331.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956331.jpg"
+      },
+      "summary": "<p>Ronaldo does some investigative reporting on whether Steven and the Crystal Gems are safe for Beach City.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/162093"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 171257,
+      "url": "https://www.tvmaze.com/episodes/171257/steven-universe-2x08-keeping-it-together",
+      "name": "Keeping It Together",
+      "season": 2,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2015-06-17",
+      "airtime": "18:00",
+      "airstamp": "2015-06-17T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956332.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956332.jpg"
+      },
+      "summary": "<p>Steven and the Crystal Gems revisit the Kindergarten and find a dark secret.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/171257"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 171258,
+      "url": "https://www.tvmaze.com/episodes/171258/steven-universe-2x09-we-need-to-talk",
+      "name": "We Need to Talk",
+      "season": 2,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2015-06-18",
+      "airtime": "18:00",
+      "airstamp": "2015-06-18T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956333.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956333.jpg"
+      },
+      "summary": "<p>Greg tells Steven and Connie the story of how he learned about Gem fusion.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/171258"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 171259,
+      "url": "https://www.tvmaze.com/episodes/171259/steven-universe-2x10-chille-tid",
+      "name": "Chille Tid",
+      "season": 2,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2015-06-19",
+      "airtime": "18:00",
+      "airstamp": "2015-06-19T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956334.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956334.jpg"
+      },
+      "summary": "<p>Steven and the Crystal Gems try to relax with a slumber party.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/171259"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 183225,
+      "url": "https://www.tvmaze.com/episodes/183225/steven-universe-2x11-cry-for-help",
+      "name": "Cry for Help",
+      "season": 2,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2015-07-13",
+      "airtime": "18:00",
+      "airstamp": "2015-07-13T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956335.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956335.jpg"
+      },
+      "summary": "<p>A magical disturbance causes an interruption to Steven's favorite show.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/183225"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 183226,
+      "url": "https://www.tvmaze.com/episodes/183226/steven-universe-2x12-keystone-motel",
+      "name": "Keystone Motel",
+      "season": 2,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2015-07-14",
+      "airtime": "18:00",
+      "airstamp": "2015-07-14T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956336.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956336.jpg"
+      },
+      "summary": "<p>The friends take a trip out of town.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/183226"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 183227,
+      "url": "https://www.tvmaze.com/episodes/183227/steven-universe-2x13-onion-friend",
+      "name": "Onion Friend",
+      "season": 2,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2015-07-15",
+      "airtime": "18:00",
+      "airstamp": "2015-07-15T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956337.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956337.jpg"
+      },
+      "summary": "<p>Steven and Amethyst pay a visit to the odd world of Onion's house.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/183227"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 183228,
+      "url": "https://www.tvmaze.com/episodes/183228/steven-universe-2x14-historical-friction",
+      "name": "Historical Friction",
+      "season": 2,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2015-07-16",
+      "airtime": "18:00",
+      "airstamp": "2015-07-16T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956338.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956338.jpg"
+      },
+      "summary": "<p>Steven joins a theatre group along with Jamie.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/183228"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 183229,
+      "url": "https://www.tvmaze.com/episodes/183229/steven-universe-2x15-friend-ship",
+      "name": "Friend Ship",
+      "season": 2,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2015-07-17",
+      "airtime": "18:00",
+      "airstamp": "2015-07-17T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956339.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956339.jpg"
+      },
+      "summary": "<p>An old spaceship is looked around by the Gems.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/183229"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 211729,
+      "url": "https://www.tvmaze.com/episodes/211729/steven-universe-2x16-nightmare-hospital",
+      "name": "Nightmare Hospital",
+      "season": 2,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2015-09-10",
+      "airtime": "18:00",
+      "airstamp": "2015-09-10T22:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956340.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956340.jpg"
+      },
+      "summary": "<p>Steven and Connie sneak into a hospital to recover Rose's Sword, and meet an enemy while trying.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/211729"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 212062,
+      "url": "https://www.tvmaze.com/episodes/212062/steven-universe-2x17-sadies-song",
+      "name": "Sadie's Song",
+      "season": 2,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2015-09-17",
+      "airtime": "17:30",
+      "airstamp": "2015-09-17T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956341.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956341.jpg"
+      },
+      "summary": "<p>Steven helps Sadie plan a performance for Beachapalooza.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/212062"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 216638,
+      "url": "https://www.tvmaze.com/episodes/216638/steven-universe-2x18-catch-and-release",
+      "name": "Catch and Release",
+      "season": 2,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2015-09-24",
+      "airtime": "17:30",
+      "airstamp": "2015-09-24T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956342.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956342.jpg"
+      },
+      "summary": "<p>We finally see inside steven's bathroom.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/216638"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 219143,
+      "url": "https://www.tvmaze.com/episodes/219143/steven-universe-2x19-when-it-rains",
+      "name": "When It Rains",
+      "season": 2,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2015-10-01",
+      "airtime": "17:30",
+      "airstamp": "2015-10-01T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956343.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956343.jpg"
+      },
+      "summary": "<p>Steven helps a friend who is afraid of thunderstorms.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/219143"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 219144,
+      "url": "https://www.tvmaze.com/episodes/219144/steven-universe-2x20-back-to-the-barn",
+      "name": "Back to the Barn",
+      "season": 2,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2015-10-08",
+      "airtime": "17:30",
+      "airstamp": "2015-10-08T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956344.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956344.jpg"
+      },
+      "summary": "<p>The gang return to the family barn to build robots.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/219144"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 339071,
+      "url": "https://www.tvmaze.com/episodes/339071/steven-universe-2x21-too-far",
+      "name": "Too Far",
+      "season": 2,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2015-10-15",
+      "airtime": "17:30",
+      "airstamp": "2015-10-15T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956345.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956345.jpg"
+      },
+      "summary": "<p>Steven and Amethyst get involved with Gem gossip.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/339071"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 538468,
+      "url": "https://www.tvmaze.com/episodes/538468/steven-universe-2x22-the-answer",
+      "name": "The Answer",
+      "season": 2,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2016-01-04",
+      "airtime": "17:30",
+      "airstamp": "2016-01-04T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956346.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956346.jpg"
+      },
+      "summary": "<p>Garnet finally tells Steven the story of how she came to be a Crystal Gem.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/538468"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 538469,
+      "url": "https://www.tvmaze.com/episodes/538469/steven-universe-2x23-stevens-birthday",
+      "name": "Steven's Birthday",
+      "season": 2,
+      "number": 23,
+      "type": "regular",
+      "airdate": "2016-01-05",
+      "airtime": "17:30",
+      "airstamp": "2016-01-05T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956347.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956347.jpg"
+      },
+      "summary": "<p>Steven has a birthday party out at the barn, and decides he has some growing up to do.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/538469"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 246302,
+      "url": "https://www.tvmaze.com/episodes/246302/steven-universe-2x24-it-couldve-been-great",
+      "name": "It Could've Been Great",
+      "season": 2,
+      "number": 24,
+      "type": "regular",
+      "airdate": "2016-01-06",
+      "airtime": "17:30",
+      "airstamp": "2016-01-06T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956348.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956348.jpg"
+      },
+      "summary": "<p>The Gems go to the moon.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/246302"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 246303,
+      "url": "https://www.tvmaze.com/episodes/246303/steven-universe-2x25-message-received",
+      "name": "Message Received",
+      "season": 2,
+      "number": 25,
+      "type": "regular",
+      "airdate": "2016-01-07",
+      "airtime": "17:30",
+      "airstamp": "2016-01-07T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956349.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956349.jpg"
+      },
+      "summary": "<p>Steven doubts everyone.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/246303"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 246304,
+      "url": "https://www.tvmaze.com/episodes/246304/steven-universe-2x26-log-date-7-15-2",
+      "name": "Log Date 7 15 2",
+      "season": 2,
+      "number": 26,
+      "type": "regular",
+      "airdate": "2016-01-08",
+      "airtime": "17:30",
+      "airstamp": "2016-01-08T22:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956350.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956350.jpg"
+      },
+      "summary": "<p>Steven listens to a friend's audio diary.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/246304"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 747159,
+      "url": "https://www.tvmaze.com/episodes/747159/steven-universe-3x01-super-watermelon-island",
+      "name": "Super Watermelon Island",
+      "season": 3,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-05-12",
+      "airtime": "19:00",
+      "airstamp": "2016-05-12T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956352.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956352.jpg"
+      },
+      "summary": "<p>Steven mobilizes the Watermelon Stevens to help the Gems battle Malachite.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/747159"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 747160,
+      "url": "https://www.tvmaze.com/episodes/747160/steven-universe-3x02-gem-drill",
+      "name": "Gem Drill",
+      "season": 3,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-05-12",
+      "airtime": "17:45",
+      "airstamp": "2016-05-12T21:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956353.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956353.jpg"
+      },
+      "summary": "<p>Steven and Peridot take on the Cluster.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/747160"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 750393,
+      "url": "https://www.tvmaze.com/episodes/750393/steven-universe-3x03-same-old-world",
+      "name": "Same Old World",
+      "season": 3,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2016-05-19",
+      "airtime": "17:30",
+      "airstamp": "2016-05-19T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956354.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956354.jpg"
+      },
+      "summary": "<p>Steven flies around the world with Lapis Lazuli.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/750393"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 750394,
+      "url": "https://www.tvmaze.com/episodes/750394/steven-universe-3x04-barn-mates",
+      "name": "Barn Mates",
+      "season": 3,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2016-05-26",
+      "airtime": "19:00",
+      "airstamp": "2016-05-26T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956355.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956355.jpg"
+      },
+      "summary": "<p>Steven helps two of his friends get along at the barn.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/750394"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 750395,
+      "url": "https://www.tvmaze.com/episodes/750395/steven-universe-3x05-hit-the-diamond",
+      "name": "Hit the Diamond",
+      "season": 3,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2016-06-02",
+      "airtime": "17:30",
+      "airstamp": "2016-06-02T21:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956356.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956356.jpg"
+      },
+      "summary": "<p>Steven and the Gems engage in an old-fashioned game of baseball.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/750395"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 876755,
+      "url": "https://www.tvmaze.com/episodes/876755/steven-universe-3x06-steven-floats",
+      "name": "Steven Floats",
+      "season": 3,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2016-07-18",
+      "airtime": "19:00",
+      "airstamp": "2016-07-18T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956357.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956357.jpg"
+      },
+      "summary": "<p>Steven aquires a new gem power.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/876755"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 855025,
+      "url": "https://www.tvmaze.com/episodes/855025/steven-universe-3x07-drop-beat-dad",
+      "name": "Drop Beat Dad",
+      "season": 3,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2016-07-18",
+      "airtime": "19:15",
+      "airstamp": "2016-07-18T23:15:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956358.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956358.jpg"
+      },
+      "summary": "<p>Steven tries to help Sour Cream reconnect with his estranged father.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/855025"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 860461,
+      "url": "https://www.tvmaze.com/episodes/860461/steven-universe-3x08-mr-greg",
+      "name": "Mr. Greg",
+      "season": 3,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2016-07-19",
+      "airtime": "19:00",
+      "airstamp": "2016-07-19T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956359.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956359.jpg"
+      },
+      "summary": "<p>Steven visits Empire City with Greg and Pearl.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/860461"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 860462,
+      "url": "https://www.tvmaze.com/episodes/860462/steven-universe-3x09-too-short-to-ride",
+      "name": "Too Short to Ride",
+      "season": 3,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2016-07-20",
+      "airtime": "19:00",
+      "airstamp": "2016-07-20T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956360.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956360.jpg"
+      },
+      "summary": "<p>Steven visits Funland with Amethyst but runs into trouble when their friend is too short to ride the rollercoasters.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/860462"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 860463,
+      "url": "https://www.tvmaze.com/episodes/860463/steven-universe-3x10-the-new-lars",
+      "name": "The New Lars",
+      "season": 3,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2016-07-21",
+      "airtime": "19:00",
+      "airstamp": "2016-07-21T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956361.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956361.jpg"
+      },
+      "summary": "<p>Steven analyzes Lar's life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/860463"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 860464,
+      "url": "https://www.tvmaze.com/episodes/860464/steven-universe-3x11-beach-city-drift",
+      "name": "Beach City Drift",
+      "season": 3,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2016-07-22",
+      "airtime": "19:00",
+      "airstamp": "2016-07-22T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956362.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956362.jpg"
+      },
+      "summary": "<p>Steven and Connie battle their biggest foe in a car race.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/860464"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 861846,
+      "url": "https://www.tvmaze.com/episodes/861846/steven-universe-3x12-restaurant-wars",
+      "name": "Restaurant Wars",
+      "season": 3,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2016-07-25",
+      "airtime": "19:00",
+      "airstamp": "2016-07-25T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956363.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956363.jpg"
+      },
+      "summary": "<p>Steven settles a rivalry between restaurant owners.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/861846"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 861847,
+      "url": "https://www.tvmaze.com/episodes/861847/steven-universe-3x13-kikis-pizza-delivery-service",
+      "name": "Kiki's Pizza Delivery Service",
+      "season": 3,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2016-07-26",
+      "airtime": "19:00",
+      "airstamp": "2016-07-26T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956365.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956365.jpg"
+      },
+      "summary": "<p>Kiki has nightmares and Steven intervenes.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/861847"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 876751,
+      "url": "https://www.tvmaze.com/episodes/876751/steven-universe-3x14-monster-reunion",
+      "name": "Monster Reunion",
+      "season": 3,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2016-07-27",
+      "airtime": "19:00",
+      "airstamp": "2016-07-27T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956366.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956366.jpg"
+      },
+      "summary": "<p>Steven convinces the Gems to let him try and heal a monster.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/876751"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 876752,
+      "url": "https://www.tvmaze.com/episodes/876752/steven-universe-3x15-alone-at-sea",
+      "name": "Alone at Sea",
+      "season": 3,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2016-07-28",
+      "airtime": "19:00",
+      "airstamp": "2016-07-28T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956367.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956367.jpg"
+      },
+      "summary": "<p>Steven and Greg take Lapis on a fishing trip.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/876752"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 876753,
+      "url": "https://www.tvmaze.com/episodes/876753/steven-universe-3x16-greg-the-babysitter",
+      "name": "Greg the Babysitter",
+      "season": 3,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2016-07-29",
+      "airtime": "19:00",
+      "airstamp": "2016-07-29T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956368.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956368.jpg"
+      },
+      "summary": "<p>Greg tells Steven the story how he ended up working at the car wash.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/876753"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 876754,
+      "url": "https://www.tvmaze.com/episodes/876754/steven-universe-3x17-gem-hunt",
+      "name": "Gem Hunt",
+      "season": 3,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2016-08-01",
+      "airtime": "19:00",
+      "airstamp": "2016-08-01T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956369.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956369.jpg"
+      },
+      "summary": "<p>Steven and Pearl take Connie on her first mission.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/876754"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877223,
+      "url": "https://www.tvmaze.com/episodes/877223/steven-universe-3x18-crack-the-whip",
+      "name": "Crack the Whip",
+      "season": 3,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2016-08-02",
+      "airtime": "19:00",
+      "airstamp": "2016-08-02T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956370.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956370.jpg"
+      },
+      "summary": "<p>Amethyst takes charge of Steven and Connie.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877223"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877224,
+      "url": "https://www.tvmaze.com/episodes/877224/steven-universe-3x19-steven-vs-amethyst",
+      "name": "Steven vs. Amethyst",
+      "season": 3,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2016-08-03",
+      "airtime": "19:00",
+      "airstamp": "2016-08-03T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956371.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956371.jpg"
+      },
+      "summary": "<p>Steven and Amethyst compete against each other while training with Pearl.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877224"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877225,
+      "url": "https://www.tvmaze.com/episodes/877225/steven-universe-3x20-bismuth-parts-1-2",
+      "name": "Bismuth, Parts 1 & 2",
+      "season": 3,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2016-08-04",
+      "airtime": "19:00",
+      "airstamp": "2016-08-04T23:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956372.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956372.jpg"
+      },
+      "summary": "<p>An item from the Gems' past is discovered inside of Lion's mane.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877225"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877226,
+      "url": "https://www.tvmaze.com/episodes/877226/steven-universe-3x21-beta",
+      "name": "Beta",
+      "season": 3,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2016-08-08",
+      "airtime": "19:00",
+      "airstamp": "2016-08-08T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956373.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956373.jpg"
+      },
+      "summary": "<p>Amethyst acts strangely when she and Steven visit friends in the country.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877226"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877227,
+      "url": "https://www.tvmaze.com/episodes/877227/steven-universe-3x22-earthlings",
+      "name": "Earthlings",
+      "season": 3,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2016-08-08",
+      "airtime": "19:15",
+      "airstamp": "2016-08-08T23:15:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956374.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956374.jpg"
+      },
+      "summary": "<p>Steven, Amethyst and Peridot face off against Jasper and her army of gem monsters.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877227"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877228,
+      "url": "https://www.tvmaze.com/episodes/877228/steven-universe-3x23-back-to-the-moon",
+      "name": "Back to the Moon",
+      "season": 3,
+      "number": 23,
+      "type": "regular",
+      "airdate": "2016-08-09",
+      "airtime": "19:00",
+      "airstamp": "2016-08-09T23:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956375.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956375.jpg"
+      },
+      "summary": "<p>Steven and the Gems return to the Moon Base.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877228"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877229,
+      "url": "https://www.tvmaze.com/episodes/877229/steven-universe-3x24-bubbled",
+      "name": "Bubbled",
+      "season": 3,
+      "number": 24,
+      "type": "regular",
+      "airdate": "2016-08-10",
+      "airtime": "19:00",
+      "airstamp": "2016-08-10T23:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956376.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956376.jpg"
+      },
+      "summary": "<p>Steven is stuck in a bubble.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877229"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877230,
+      "url": "https://www.tvmaze.com/episodes/877230/steven-universe-4x01-kindergarten-kid",
+      "name": "Kindergarten Kid",
+      "season": 4,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2016-08-11",
+      "airtime": "19:00",
+      "airstamp": "2016-08-11T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956378.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956378.jpg"
+      },
+      "summary": "<p>A monster problem surfaces.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877230"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 877231,
+      "url": "https://www.tvmaze.com/episodes/877231/steven-universe-4x02-know-your-fusion",
+      "name": "Know Your Fusion",
+      "season": 4,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2016-08-12",
+      "airtime": "19:00",
+      "airstamp": "2016-08-12T23:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956379.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956379.jpg"
+      },
+      "summary": "<p>Steven and the Gems examine fusions.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/877231"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 881987,
+      "url": "https://www.tvmaze.com/episodes/881987/steven-universe-4x03-buddys-book",
+      "name": "Buddy's Book",
+      "season": 4,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2016-08-18",
+      "airtime": "19:00",
+      "airstamp": "2016-08-18T23:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956380.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956380.jpg"
+      },
+      "summary": "<p>Steven visits the library with Connie and uncovers a long lost book.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/881987"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 881988,
+      "url": "https://www.tvmaze.com/episodes/881988/steven-universe-4x04-mindful-education",
+      "name": "Mindful Education",
+      "season": 4,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2016-08-25",
+      "airtime": "19:00",
+      "airstamp": "2016-08-25T23:00:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956381.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956381.jpg"
+      },
+      "summary": "<p>Steven and Connie learn to focus better.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/881988"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 881989,
+      "url": "https://www.tvmaze.com/episodes/881989/steven-universe-4x05-future-boy-zoltron",
+      "name": "Future Boy Zoltron",
+      "season": 4,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2016-09-01",
+      "airtime": "19:00",
+      "airstamp": "2016-09-01T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956382.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956382.jpg"
+      },
+      "summary": "<p>Steven tells people's fortunes at Funland.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/881989"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 903640,
+      "url": "https://www.tvmaze.com/episodes/903640/steven-universe-4x06-last-one-out-of-beach-city",
+      "name": "Last One Out of Beach City",
+      "season": 4,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2016-09-08",
+      "airtime": "19:00",
+      "airstamp": "2016-09-08T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956383.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956383.jpg"
+      },
+      "summary": "<p>Pearl, Steven and Amethyst go to a rock show.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/903640"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 903641,
+      "url": "https://www.tvmaze.com/episodes/903641/steven-universe-4x07-onion-gang",
+      "name": "Onion Gang",
+      "season": 4,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2016-09-15",
+      "airtime": "19:00",
+      "airstamp": "2016-09-15T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956384.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956384.jpg"
+      },
+      "summary": "<p>Steven learns about Onion's secret group of friends.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/903641"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 916587,
+      "url": "https://www.tvmaze.com/episodes/916587/steven-universe-4x08-gem-harvest-parts-1-2",
+      "name": "Gem Harvest, Parts 1 & 2",
+      "season": 4,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2016-11-17",
+      "airtime": "19:30",
+      "airstamp": "2016-11-18T00:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956385.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956385.jpg"
+      },
+      "summary": "<p>Steven's autumn visit to the barn brings a new stranger into his life.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/916587"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 977395,
+      "url": "https://www.tvmaze.com/episodes/977395/steven-universe-4x09-three-gems-and-a-baby",
+      "name": "Three Gems and a Baby",
+      "season": 4,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2016-12-01",
+      "airtime": "19:30",
+      "airstamp": "2016-12-02T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956386.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956386.jpg"
+      },
+      "summary": "<p>Greg tells Steven the story of his first winter with Steven.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/977395"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1020995,
+      "url": "https://www.tvmaze.com/episodes/1020995/steven-universe-4x10-stevens-dream",
+      "name": "Steven's Dream",
+      "season": 4,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-01-30",
+      "airtime": "19:00",
+      "airstamp": "2017-01-31T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956387.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956387.jpg"
+      },
+      "summary": "<p>A strange dream prompts Steven to search for answers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1020995"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1020996,
+      "url": "https://www.tvmaze.com/episodes/1020996/steven-universe-4x11-adventures-in-light-distortion",
+      "name": "Adventures in Light Distortion",
+      "season": 4,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2017-01-30",
+      "airtime": "19:15",
+      "airstamp": "2017-01-31T00:15:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956388.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956388.jpg"
+      },
+      "summary": "<p>Steven and the Gems take off on a search and recovery mission.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1020996"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1020997,
+      "url": "https://www.tvmaze.com/episodes/1020997/steven-universe-4x12-gem-heist",
+      "name": "Gem Heist",
+      "season": 4,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2017-01-31",
+      "airtime": "19:00",
+      "airstamp": "2017-02-01T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956389.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956389.jpg"
+      },
+      "summary": "<p>The Gems try to pull off a heist.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1020997"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1020998,
+      "url": "https://www.tvmaze.com/episodes/1020998/steven-universe-4x13-the-zoo",
+      "name": "The Zoo",
+      "season": 4,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2017-02-01",
+      "airtime": "19:00",
+      "airstamp": "2017-02-02T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956390.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956390.jpg"
+      },
+      "summary": "<p>Steven visits a special zoo.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1020998"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1020999,
+      "url": "https://www.tvmaze.com/episodes/1020999/steven-universe-4x14-that-will-be-all",
+      "name": "That Will Be All",
+      "season": 4,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2017-02-02",
+      "airtime": "19:00",
+      "airstamp": "2017-02-03T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956391.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956391.jpg"
+      },
+      "summary": "<p>Steven and the Gems make a daring escape!</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1020999"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1059072,
+      "url": "https://www.tvmaze.com/episodes/1059072/steven-universe-4x15-the-new-crystal-gems",
+      "name": "The New Crystal Gems",
+      "season": 4,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2017-02-10",
+      "airtime": "19:00",
+      "airstamp": "2017-02-11T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956392.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956392.jpg"
+      },
+      "summary": "<p>Connie helps look after Beach City while Steven is busy.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1059072"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1059073,
+      "url": "https://www.tvmaze.com/episodes/1059073/steven-universe-4x16-storm-in-the-room",
+      "name": "Storm in the Room",
+      "season": 4,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2017-02-17",
+      "airtime": "19:00",
+      "airstamp": "2017-02-18T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956393.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956393.jpg"
+      },
+      "summary": "<p>Steven goes into his room in the temple to look for answers.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1059073"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1059074,
+      "url": "https://www.tvmaze.com/episodes/1059074/steven-universe-4x17-rocknaldo",
+      "name": "Rocknaldo",
+      "season": 4,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2017-02-24",
+      "airtime": "19:00",
+      "airstamp": "2017-02-25T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 6.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956394.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956394.jpg"
+      },
+      "summary": "<p>Ronaldo sets out to find all the rock people living in Beach City!</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1059074"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 977396,
+      "url": "https://www.tvmaze.com/episodes/977396/steven-universe-4x18-tiger-philanthropist",
+      "name": "Tiger Philanthropist",
+      "season": 4,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2017-03-03",
+      "airtime": "19:00",
+      "airstamp": "2017-03-04T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 5.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956395.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956395.jpg"
+      },
+      "summary": "<p>Steven returns to the ring to continue his pro wrestling odyssey.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/977396"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1087359,
+      "url": "https://www.tvmaze.com/episodes/1087359/steven-universe-4x19-room-for-ruby",
+      "name": "Room for Ruby",
+      "season": 4,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2017-03-10",
+      "airtime": "19:00",
+      "airstamp": "2017-03-11T00:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956396.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956396.jpg"
+      },
+      "summary": "<p>Steven's gem family continues to grow.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1087359"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1163940,
+      "url": "https://www.tvmaze.com/episodes/1163940/steven-universe-4x20-lion-4-alternate-ending",
+      "name": "Lion 4: Alternate Ending",
+      "season": 4,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2017-05-08",
+      "airtime": "19:00",
+      "airstamp": "2017-05-08T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956397.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956397.jpg"
+      },
+      "summary": "<p>When Lion coughs up a magical key, Steven goes on a quest to discover what it unlocks.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1163940"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1144075,
+      "url": "https://www.tvmaze.com/episodes/1144075/steven-universe-4x21-doug-out",
+      "name": "Doug Out",
+      "season": 4,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2017-05-09",
+      "airtime": "19:00",
+      "airstamp": "2017-05-09T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956398.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956398.jpg"
+      },
+      "summary": "<p>Steven and Connie join Connie's father on a stake out.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1144075"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1144076,
+      "url": "https://www.tvmaze.com/episodes/1144076/steven-universe-4x22-the-good-lars",
+      "name": "The Good Lars",
+      "season": 4,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2017-05-10",
+      "airtime": "19:00",
+      "airstamp": "2017-05-10T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956399.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956399.jpg"
+      },
+      "summary": "<p>Steven, Lars and Sadie get invited to a party with the Cool Kids.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1144076"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1144077,
+      "url": "https://www.tvmaze.com/episodes/1144077/steven-universe-4x23-are-you-my-dad",
+      "name": "Are You My Dad?",
+      "season": 4,
+      "number": 23,
+      "type": "regular",
+      "airdate": "2017-05-11",
+      "airtime": "19:00",
+      "airstamp": "2017-05-11T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956400.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956400.jpg"
+      },
+      "summary": "<p>People are disappearing from Beach City, and Steven tries to solve the mystery.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1144077"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1144078,
+      "url": "https://www.tvmaze.com/episodes/1144078/steven-universe-4x24-i-am-my-mom",
+      "name": "I Am My Mom",
+      "season": 4,
+      "number": 24,
+      "type": "regular",
+      "airdate": "2017-05-11",
+      "airtime": "19:15",
+      "airstamp": "2017-05-11T23:15:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956401.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956401.jpg"
+      },
+      "summary": "<p>Steven struggles to fix his mistakes.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1144078"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1164920,
+      "url": "https://www.tvmaze.com/episodes/1164920/steven-universe-5x01-stuck-together",
+      "name": "Stuck Together",
+      "season": 5,
+      "number": 1,
+      "type": "regular",
+      "airdate": "2017-05-29",
+      "airtime": "19:00",
+      "airstamp": "2017-05-29T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/114/286108.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286108.jpg"
+      },
+      "summary": "<p>Steven and Lars are stuck inside Topaz and try to look for a way to escape.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1164920"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1164921,
+      "url": "https://www.tvmaze.com/episodes/1164921/steven-universe-5x02-the-trial",
+      "name": "The Trial",
+      "season": 5,
+      "number": 2,
+      "type": "regular",
+      "airdate": "2017-05-29",
+      "airtime": "19:15",
+      "airstamp": "2017-05-29T23:15:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/114/286109.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286109.jpg"
+      },
+      "summary": "<p>Steven goes to court against Blue and Yellow Diamond to determine his (or rather Rose Quartz's) fate.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1164921"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1164922,
+      "url": "https://www.tvmaze.com/episodes/1164922/steven-universe-5x03-off-colors",
+      "name": "Off Colors",
+      "season": 5,
+      "number": 3,
+      "type": "regular",
+      "airdate": "2017-05-29",
+      "airtime": "19:30",
+      "airstamp": "2017-05-29T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/114/286110.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286110.jpg"
+      },
+      "summary": "<p>Steven gains new allies.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1164922"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1164923,
+      "url": "https://www.tvmaze.com/episodes/1164923/steven-universe-5x04-lars-head",
+      "name": "Lars' Head",
+      "season": 5,
+      "number": 4,
+      "type": "regular",
+      "airdate": "2017-05-29",
+      "airtime": "19:45",
+      "airstamp": "2017-05-29T23:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/114/286111.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/114/286111.jpg"
+      },
+      "summary": "<p>Steven finally gets to know the real Lars.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1164923"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1352950,
+      "url": "https://www.tvmaze.com/episodes/1352950/steven-universe-5x05-dewey-wins",
+      "name": "Dewey Wins",
+      "season": 5,
+      "number": 5,
+      "type": "regular",
+      "airdate": "2017-12-15",
+      "airtime": "19:30",
+      "airstamp": "2017-12-16T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956247.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956247.jpg"
+      },
+      "summary": "<p>Steven helps Mayor Dewey run a difficult campaign.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1352950"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1352952,
+      "url": "https://www.tvmaze.com/episodes/1352952/steven-universe-5x06-gemcation",
+      "name": "Gemcation",
+      "season": 5,
+      "number": 6,
+      "type": "regular",
+      "airdate": "2017-12-15",
+      "airtime": "19:45",
+      "airstamp": "2017-12-16T00:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956248.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956248.jpg"
+      },
+      "summary": "<p>Greg and the Gems take Steven on vacation to help him relax.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1352952"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1352951,
+      "url": "https://www.tvmaze.com/episodes/1352951/steven-universe-5x07-raising-the-barn",
+      "name": "Raising the Barn",
+      "season": 5,
+      "number": 7,
+      "type": "regular",
+      "airdate": "2017-12-22",
+      "airtime": "19:30",
+      "airstamp": "2017-12-23T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956249.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956249.jpg"
+      },
+      "summary": "<p>Pumpkin goes missing!</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1352951"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1352953,
+      "url": "https://www.tvmaze.com/episodes/1352953/steven-universe-5x08-back-to-the-kindergarten",
+      "name": "Back to the Kindergarten",
+      "season": 5,
+      "number": 8,
+      "type": "regular",
+      "airdate": "2017-12-22",
+      "airtime": "19:45",
+      "airstamp": "2017-12-23T00:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956250.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956250.jpg"
+      },
+      "summary": "<p>Steven, Amethyst and Peridot try to spruce up the Kindergarten.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1352953"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1352954,
+      "url": "https://www.tvmaze.com/episodes/1352954/steven-universe-5x09-sadie-killer",
+      "name": "Sadie Killer",
+      "season": 5,
+      "number": 9,
+      "type": "regular",
+      "airdate": "2017-12-29",
+      "airtime": "19:30",
+      "airstamp": "2017-12-30T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956251.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956251.jpg"
+      },
+      "summary": "<p>Steven and the Cool Kids start a band, but they have trouble finding their sound.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1352954"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1352955,
+      "url": "https://www.tvmaze.com/episodes/1352955/steven-universe-5x10-kevin-party",
+      "name": "Kevin Party",
+      "season": 5,
+      "number": 10,
+      "type": "regular",
+      "airdate": "2017-12-29",
+      "airtime": "19:45",
+      "airstamp": "2017-12-30T00:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956252.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956252.jpg"
+      },
+      "summary": "<p>Kevin is throwing a party, and Steven is invited.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1352955"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1382817,
+      "url": "https://www.tvmaze.com/episodes/1382817/steven-universe-5x11-lars-of-the-stars",
+      "name": "Lars of the Stars",
+      "season": 5,
+      "number": 11,
+      "type": "regular",
+      "airdate": "2018-01-05",
+      "airtime": "19:30",
+      "airstamp": "2018-01-06T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956253.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956253.jpg"
+      },
+      "summary": "<p>Lars rises to the occasion.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1382817"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1382818,
+      "url": "https://www.tvmaze.com/episodes/1382818/steven-universe-5x12-jungle-moon",
+      "name": "Jungle Moon",
+      "season": 5,
+      "number": 12,
+      "type": "regular",
+      "airdate": "2018-01-05",
+      "airtime": "19:45",
+      "airstamp": "2018-01-06T00:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956254.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956254.jpg"
+      },
+      "summary": "<p>Stevonnie finds themself alone on an adventure.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1382818"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1422681,
+      "url": "https://www.tvmaze.com/episodes/1422681/steven-universe-5x13-your-mother-and-mine",
+      "name": "Your Mother and Mine",
+      "season": 5,
+      "number": 13,
+      "type": "regular",
+      "airdate": "2018-04-09",
+      "airtime": "19:00",
+      "airstamp": "2018-04-09T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956255.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956255.jpg"
+      },
+      "summary": "<p>Steven takes Garnet to meet some of his new friends.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1422681"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1434751,
+      "url": "https://www.tvmaze.com/episodes/1434751/steven-universe-5x14-the-big-show",
+      "name": "The Big Show",
+      "season": 5,
+      "number": 14,
+      "type": "regular",
+      "airdate": "2018-04-16",
+      "airtime": "19:00",
+      "airstamp": "2018-04-16T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956256.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956256.jpg"
+      },
+      "summary": "<p>Steven shoots a documentary that follows a local band as they get their first big break.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1434751"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1434752,
+      "url": "https://www.tvmaze.com/episodes/1434752/steven-universe-5x15-pool-hopping",
+      "name": "Pool Hopping",
+      "season": 5,
+      "number": 15,
+      "type": "regular",
+      "airdate": "2018-04-23",
+      "airtime": "19:00",
+      "airstamp": "2018-04-23T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956257.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956257.jpg"
+      },
+      "summary": "<p>Garnet and Steven explore the most unlikely timelines in Beach City.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1434752"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1434753,
+      "url": "https://www.tvmaze.com/episodes/1434753/steven-universe-5x16-letters-to-lars",
+      "name": "Letters to Lars",
+      "season": 5,
+      "number": 16,
+      "type": "regular",
+      "airdate": "2018-04-30",
+      "airtime": "19:00",
+      "airstamp": "2018-04-30T23:00:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956258.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956258.jpg"
+      },
+      "summary": "<p>Steven writes about the latest news of Beach City.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1434753"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1435110,
+      "url": "https://www.tvmaze.com/episodes/1435110/steven-universe-5x17-cant-go-back",
+      "name": "Can't Go Back",
+      "season": 5,
+      "number": 17,
+      "type": "regular",
+      "airdate": "2018-05-07",
+      "airtime": "19:30",
+      "airstamp": "2018-05-07T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956259.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956259.jpg"
+      },
+      "summary": "<p>Ronaldo spots something mysterious on the moon, and Steven goes to investigate.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1435110"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1435111,
+      "url": "https://www.tvmaze.com/episodes/1435111/steven-universe-5x18-a-single-pale-rose",
+      "name": "A Single Pale Rose",
+      "season": 5,
+      "number": 18,
+      "type": "regular",
+      "airdate": "2018-05-07",
+      "airtime": "19:45",
+      "airstamp": "2018-05-07T23:45:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956260.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956260.jpg"
+      },
+      "summary": "<p>Steven helps Pearl find her phone.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1435111"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1481950,
+      "url": "https://www.tvmaze.com/episodes/1481950/steven-universe-5x19-now-were-only-falling-apart",
+      "name": "Now We're Only Falling Apart",
+      "season": 5,
+      "number": 19,
+      "type": "regular",
+      "airdate": "2018-07-02",
+      "airtime": "19:30",
+      "airstamp": "2018-07-02T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956261.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956261.jpg"
+      },
+      "summary": "<p>Pearl tells a story.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1481950"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1481951,
+      "url": "https://www.tvmaze.com/episodes/1481951/steven-universe-5x20-whats-your-problem",
+      "name": "What's Your Problem?",
+      "season": 5,
+      "number": 20,
+      "type": "regular",
+      "airdate": "2018-07-03",
+      "airtime": "19:30",
+      "airstamp": "2018-07-03T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 7
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956262.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956262.jpg"
+      },
+      "summary": "<p>Amethyst convinces Steven to take a day off for himself.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1481951"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1481952,
+      "url": "https://www.tvmaze.com/episodes/1481952/steven-universe-5x21-the-question",
+      "name": "The Question",
+      "season": 5,
+      "number": 21,
+      "type": "regular",
+      "airdate": "2018-07-04",
+      "airtime": "19:30",
+      "airstamp": "2018-07-04T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 8.3
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956263.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956263.jpg"
+      },
+      "summary": "<p>Steven shows some city slicker gems how the cowboys lived.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1481952"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1481953,
+      "url": "https://www.tvmaze.com/episodes/1481953/steven-universe-5x22-made-of-honor",
+      "name": "Made of Honor",
+      "season": 5,
+      "number": 22,
+      "type": "regular",
+      "airdate": "2018-07-05",
+      "airtime": "19:30",
+      "airstamp": "2018-07-05T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956264.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956264.jpg"
+      },
+      "summary": "<p>Steven has a big surprise for the Crystal Gems.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1481953"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1481954,
+      "url": "https://www.tvmaze.com/episodes/1481954/steven-universe-5x23-reunited",
+      "name": "Reunited",
+      "season": 5,
+      "number": 23,
+      "type": "regular",
+      "airdate": "2018-07-06",
+      "airtime": "19:30",
+      "airstamp": "2018-07-06T23:30:00+00:00",
+      "runtime": 30,
+      "rating": {
+        "average": 10
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956265.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956265.jpg"
+      },
+      "summary": "<p>Steven brings everyone together for a special reunion.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1481954"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1501655,
+      "url": "https://www.tvmaze.com/episodes/1501655/steven-universe-5x24-legs-from-here-to-homeworld",
+      "name": "Legs From Here to Homeworld",
+      "season": 5,
+      "number": 24,
+      "type": "regular",
+      "airdate": "2018-07-23",
+      "airtime": "19:30",
+      "airstamp": "2018-07-23T23:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 9.5
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956266.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956266.jpg"
+      },
+      "summary": "<p>Steven travels to visit family.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1501655"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1567424,
+      "url": "https://www.tvmaze.com/episodes/1567424/steven-universe-5x25-familiar",
+      "name": "Familiar",
+      "season": 5,
+      "number": 25,
+      "type": "regular",
+      "airdate": "2018-12-24",
+      "airtime": "19:30",
+      "airstamp": "2018-12-25T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956267.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956267.jpg"
+      },
+      "summary": "<p>With many changes going on in his life, Steven tries to find his place in the world.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1567424"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1567425,
+      "url": "https://www.tvmaze.com/episodes/1567425/steven-universe-5x26-together-alone",
+      "name": "Together Alone",
+      "season": 5,
+      "number": 26,
+      "type": "regular",
+      "airdate": "2018-12-31",
+      "airtime": "19:30",
+      "airstamp": "2019-01-01T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": 4
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956268.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956268.jpg"
+      },
+      "summary": "<p>Steven throws a party to bring his family together.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1567425"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1567426,
+      "url": "https://www.tvmaze.com/episodes/1567426/steven-universe-5x27-escapism",
+      "name": "Escapism",
+      "season": 5,
+      "number": 27,
+      "type": "regular",
+      "airdate": "2019-01-07",
+      "airtime": "19:30",
+      "airstamp": "2019-01-08T00:30:00+00:00",
+      "runtime": 15,
+      "rating": {
+        "average": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956269.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956269.jpg"
+      },
+      "summary": "<p>Steven uses his psychic powers to find help.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1567426"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    },
+    {
+      "id": 1567427,
+      "url": "https://www.tvmaze.com/episodes/1567427/steven-universe-5x28-change-your-mind",
+      "name": "Change Your Mind",
+      "season": 5,
+      "number": 28,
+      "type": "regular",
+      "airdate": "2019-01-21",
+      "airtime": "19:00",
+      "airstamp": "2019-01-22T00:00:00+00:00",
+      "runtime": 60,
+      "rating": {
+        "average": 8
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956270.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956270.jpg"
+      },
+      "summary": "<p>Steven faces his biggest challenge yet.</p>",
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/episodes/1567427"
+        },
+        "show": {
+          "href": "https://api.tvmaze.com/shows/1615"
+        }
+      }
+    }
+  ]
